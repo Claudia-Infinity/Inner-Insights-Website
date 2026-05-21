@@ -23,8 +23,8 @@ export default function ContactPage() {
               Want to get in <span className="text-plum-soft">touch?</span>
             </h1>
             <p className="mt-4 text-muted">
-              Spiritual guide &amp; psychic medium, serving clients worldwide.
-              Drop a note and I&apos;ll get back to you personally.
+              Psychic medium, intuitive life coach, and spiritual guide, serving clients worldwide.
+              Drop me a note. I&apos;ll get back to you personally within 72 hours.
             </p>
 
             <div className="mt-8">

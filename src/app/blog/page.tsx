@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { POSTS } from "@/content/blog/posts";
-import BlogCard from "@/components/blog-card";
+import BlogList from "@/components/blog-list";
 import PostReactions from "@/components/post-reactions";
 
 export const metadata: Metadata = {
@@ -70,12 +70,8 @@ export default function BlogPage() {
           </div>
         </article>
 
-        {/* Rest of the grid */}
-        <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          {rest.map((p) => (
-            <BlogCard key={p.slug} post={p} />
-          ))}
-        </div>
+        {/* Rest of the grid (paginated) */}
+        <BlogList posts={rest} />
       </section>
     </div>
   );
