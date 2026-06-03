@@ -235,8 +235,7 @@ export default function Home() {
           </header>
           <p className="mb-5 max-w-2xl text-sm text-muted leading-relaxed">
             For coaching clients ready to start their own coaching practice.{" "}
-            <span className="italic font-bold text-plum-soft">The</span>
-            <span className="italic text-plum-soft"> Imperfect Coach Mentorship Experience</span> includes
+            <span className="italic font-bold text-plum-soft">The Imperfect Coach Mentorship Experience</span> includes
             mentorship, professional and spiritual frameworks, and the business access you need to launch with confidence.
           </p>
           <div className="grid gap-5 sm:grid-cols-2 md:grid-cols-2 lg:max-w-3xl">
