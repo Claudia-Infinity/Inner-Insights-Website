@@ -2,6 +2,18 @@ import Link from "next/link";
 import Image from "next/image";
 
 const TESTIMONIALS = [
+  // Coaching client testimonials — Claudia "The Imperfect Coach"
+  { quote: "Working with Claudia has been a game-changer. Her intuitive strategies are gold & her vibrant energy is infectious. I have achieved milestones I never thought possible!",                          name: "Juliana Silva",    role: "Health Communications Professional · Albuquerque, NM",         photo: "/images/testimonials/Juliana Silva.jpg" },
+  { quote: "Claudia's approach to coaching is both compassionate and results driven. I have found a newfound clarity and direction in my career, all thanks to her guidance.",                                   name: "Nina Van Houten",  role: "Artist & Creative · San Jose, CA",                              photo: "/images/testimonials/Nina Van Houten.jpg", objectPosition: "center 22%" },
+  { quote: "Claudia encouraged me to dream big and then equipped me with the intuitive tools to make those dreams a reality. I feel more empowered and inspired than ever before.",                              name: "Bailey D. Dupont", role: "Public Relations Director · Houston, TX",                       photo: "/images/testimonials/Bailey DuPont.jpg" },
+  { quote: "Working with Claudia gave me the confidence I needed to transition from the gaming world to becoming a full-time spiritual entrepreneur. I am happy and living my life purpose.",                    name: "Derrick Hobbs",    role: "App and Game Developer · Los Angeles, CA",                      photo: "/images/testimonials/Derrick Hobbs.jpg" },
+  { quote: "I dreamt of finding a Nubian King to marry but lacked the self-confidence to put myself out there. Claudia lovingly (and hilariously) coached me to success. I am ENGAGED y'all!",                   name: "Claudia Alvares",  role: "Hairstylist & Soon-to-Be Bride · Dallas, TX",                   photo: "/images/testimonials/Claudia Alvares.jpg" },
+  { quote: "Claudia's unique insights and her attention to the 'not so obvious' lends to her overall spirit and excellence as an intuitive business acceleration coach. She is truly exceptional.",              name: "Leslie Steffenson",role: "Interior Design Business Owner · Brooklyn, NY",                 photo: "/images/testimonials/Leslie Steffenson.jpg" },
+  { quote: "Working with Claudia at the VIP level manifested a miracle. Her non-judgmental coaching sessions saved my marriage. She gave us the gifts of imperfection & grace.",                                 name: "Marjorie Brown",   role: "Retired Professor · Miami, FL",                                 photo: "/images/testimonials/Marjorie Brown.jpg" },
+  { quote: "I don't make any major business decisions without consulting with Claudia. She is my secret weapon. I call her 'The Woo of Wall Street.' She developed my insights!",                                name: "Bradley H. Welch", role: "Financial Advisor · New York, NY",                              photo: "/images/testimonials/Bradley Welch.jpg" },
+  { quote: "Claudia encouraged me to pursue my creativity and equipped me with the tools to transition from school teaching to a $3M+ Content Creator living with freedom.",                                     name: "Marianna Ortiz",   role: "Content Creator · Venezuela",                                   photo: "/images/testimonials/Marianna Ortiz.jpg" },
+
+  // Reading / healing / class client testimonials
   { quote: "When I was at my lowest, Claudia helped me see the situation for what it was. Her advice on how to bring abundance to me worked and still is working!",            name: "Cindy G.",    role: "Texas",          photo: "/images/testimonials/Cindy G.jpg" },
   { quote: "Claudia is the most accessible, understanding, calm human being I have ever encountered. She often knows what I need long before I am aware of it.",                name: "Nicole B.",   role: "Texas",          photo: "/images/testimonials/Nicole B.jpg" },
   { quote: "Her dedication to her clients and passion for what she does is unmatched. Meeting Claudia has been life changing.",                                                  name: "Tammiko J.",  role: "Texas",          photo: "/images/testimonials/Tammiko J.jpg" },
@@ -12,7 +24,7 @@ const TESTIMONIALS = [
   { quote: "I can't thank Claudia enough. Her classes and the safe space she creates to practice our senses have helped me become more in tune with my spiritual self.",         name: "Laura L.",    role: "Texas",          photo: "/images/testimonials/Laura L.jpg" },
 ];
 
-function Card({ quote, name, role, photo }: typeof TESTIMONIALS[number]) {
+function Card({ quote, name, role, photo, objectPosition }: typeof TESTIMONIALS[number] & { objectPosition?: string }) {
   return (
     <article className="relative flex w-[22rem] flex-shrink-0 flex-col gap-5 rounded-2xl border border-white/5 bg-surface/60 p-7 shadow-xl backdrop-blur-sm">
       <svg width="28" height="22" viewBox="0 0 28 22" className="text-gold/70" fill="currentColor" aria-hidden>
@@ -21,7 +33,7 @@ function Card({ quote, name, role, photo }: typeof TESTIMONIALS[number]) {
       <p className="flex-1 text-sm leading-relaxed text-ink/90">{quote}</p>
       <footer className="flex items-center gap-3 border-t border-white/5 pt-4">
         <span className="relative h-11 w-11 flex-shrink-0 overflow-hidden rounded-full ring-1 ring-gold/30">
-          <Image src={photo} alt={name} fill sizes="44px" className="object-cover" />
+          <Image src={photo} alt={name} fill sizes="44px" className="object-cover" style={objectPosition ? { objectPosition } : undefined} />
         </span>
         <div>
           <p className="text-sm font-medium text-white">{name}</p>

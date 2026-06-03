@@ -1,4 +1,5 @@
 import { streamText, convertToModelMessages, type UIMessage } from "ai";
+import { anthropic } from "@ai-sdk/anthropic";
 import { POSTS } from "@/content/blog/posts";
 
 export const runtime = "nodejs";
@@ -22,7 +23,7 @@ You help visitors:
 - Find blog posts, testimonials, and FAQs.
 - Start a booking (point them to the Services section or the SimplyBook portal).
 - Get in touch (point them to /contact, email, or the contact form).
-- Take the free Psychic Abilities Assessment (/#psychic-test).
+- Take the free Life Path Number Assessment (/life-path-number).
 
 ## Hard boundaries, never cross
 - You are NOT a psychic, medium, healer, or coach. Only Claudia offers those services.
@@ -45,7 +46,7 @@ You help visitors:
 - **Smudge Ceremony**: cleansing ritual for your home or spirit. In-person.
 - **Ability Training** (psychic development): $55 for 45 min. One-on-one.
 - **Life Coaching**: Gold ($1,997 / 3mo), Platinum ($2,997 / 3mo), VIP ($4,997 / 6mo), or à la carte ($222/hr, $444/2hr).
-- **Free tools**: Psychic Abilities Assessment PDF at /#psychic-test.
+- **Free tools**: Life Path Number Assessment at /life-path-number (enter birthday, get your number + archetype, optional PDF guide via email).
 
 ## Navigation shortcuts
 - Home: /
@@ -72,18 +73,18 @@ If the user's request is off-topic (coding help, news, trivia), gently steer bac
 export async function POST(req: Request) {
   const { messages }: { messages: UIMessage[] } = await req.json().catch(() => ({ messages: [] }));
 
-  if (!process.env.AI_GATEWAY_API_KEY) {
+  if (!process.env.ANTHROPIC_API_KEY) {
     return new Response(
       JSON.stringify({
-        error: "AI_GATEWAY_API_KEY not set",
-        hint: "Add your Vercel AI Gateway key to enable Infinity.",
+        error: "ANTHROPIC_API_KEY not set",
+        hint: "Add your Anthropic API key to enable Infinity.",
       }),
       { status: 503, headers: { "Content-Type": "application/json" } }
     );
   }
 
   const result = streamText({
-    model: "anthropic/claude-haiku-4-5",
+    model: anthropic("claude-haiku-4-5"),
     system: buildSystem(),
     messages: await convertToModelMessages(messages),
     temperature: 0.7,

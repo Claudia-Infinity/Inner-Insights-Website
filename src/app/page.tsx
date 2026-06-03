@@ -4,7 +4,7 @@ import HeroParallax from "@/components/hero-parallax";
 import MoonDivider from "@/components/moon-divider";
 import TestimonialsMarquee from "@/components/testimonials-marquee";
 import ServiceCard from "@/components/service-card";
-import PsychicTestForm from "@/components/psychic-test-form";
+import LifePathNumberForm from "@/components/life-path-number-form";
 import FAQSection from "@/components/faq-section";
 
 type Ribbon = { label: string; className: string };
@@ -31,10 +31,14 @@ const SPIRITUAL: Service[] = [
 ];
 
 const GROWTH: Service[] = [
+  // Claudia in Red Suit — served via Drive thumbnail endpoint (configured
+  // in next.config.ts). When a higher-res local copy lands in /public/brief-assets/
+  // claudia-red-suit.jpg we can swap to that for better LCP.
+  { slug: "discovery-call",     title: "Discovery Call",         img: "/images/claudia/Denim Glasses.JPG",  blurb: "A free Zoom discovery call to illuminate your path and explore how coaching or mentorship can support your next evolution.", href: "https://innerinsights.simplybook.me/v2/#book/service/26" },
   { slug: "development",        title: "Ability Training",       img: "/images/services/claudia/service-developmental-coaching.jpg",   blurb: "Open and train your own intuitive gifts.",                                       href: "https://innerinsights.simplybook.me/v2/#book/service/6" },
-  { slug: "coaching-gold",      title: "Life Coaching",          img: "/images/services/claudia/service-life-coaching-gold.jpg",       blurb: "Foundational program for clarity and momentum.",       ribbon: RIBBON_GOLD,     href: "https://innerinsights.simplybook.me/v2/#packages/8" },
-  { slug: "coaching-platinum",  title: "Life Coaching",          img: "/images/services/claudia/service-life-coaching-platinum.jpg",   blurb: "Deeper mentorship with higher-touch access.",          ribbon: RIBBON_PLATINUM, href: "https://innerinsights.simplybook.me/v2/#packages/9" },
-  { slug: "coaching-vip",       title: "Life Coaching",          img: "/images/services/claudia/service-life-coaching-vip.jpg",        blurb: "Immersive partnership for empire-builders.",           ribbon: RIBBON_VIP,      href: "https://innerinsights.simplybook.me/v2/#packages/10", objectPosition: "center 15%" },
+  { slug: "coaching-gold",      title: "Life Coaching",          img: "/images/services/claudia/service-life-coaching-gold.jpg",       blurb: "3-Month foundational program for clarity and momentum.",     ribbon: RIBBON_GOLD,     href: "https://innerinsights.simplybook.me/v2/#packages/8" },
+  { slug: "coaching-platinum",  title: "Life Coaching",          img: "/images/services/claudia/service-life-coaching-platinum.jpg",   blurb: "3-Month deeper mentorship with higher-touch access.",        ribbon: RIBBON_PLATINUM, href: "https://innerinsights.simplybook.me/v2/#packages/9" },
+  { slug: "coaching-vip",       title: "Life Coaching",          img: "/images/services/claudia/service-life-coaching-vip.jpg",        blurb: "3-Month immersive partnership for empire builders and visionaries.", ribbon: RIBBON_VIP,      href: "https://innerinsights.simplybook.me/v2/#packages/10", objectPosition: "center 15%" },
   { slug: "coaching-alacarte",  title: "Life Coaching",          img: "/images/services/claudia/service-life-coaching-alacarte.jpg",   blurb: "Pay-per-session support, come as you need.",           ribbon: RIBBON_ALACARTE, href: "https://innerinsights.simplybook.me/v2/#book/category/5/count/1/" },
 ];
 
@@ -43,7 +47,7 @@ const MENTORSHIP: Service[] = [
     slug: "mentorship-gold",
     title: "Coach Mentorship",
     img: "/images/services/claudia/service-coach-mentorship-gold.jpeg",
-    blurb: "3-Month Imperfect Coach Program for former clients launching their own practice.",
+    blurb: "Coach mentorship program for coaching clients launching their own practice.",
     ribbon: RIBBON_GOLD,
     href: "https://innerinsights.simplybook.me/v2/#packages/15",
   },
@@ -54,6 +58,37 @@ const MENTORSHIP: Service[] = [
     blurb: "VIP-tier mentorship with high-touch access while you build your coaching practice.",
     ribbon: RIBBON_VIP,
     href: "https://innerinsights.simplybook.me/v2/#packages/16",
+  },
+];
+
+const BUNDLES: Service[] = [
+  {
+    slug: "bundle-card-phone",
+    title: "3 Card Reading Bundle",
+    img: "/images/merch/cards-hrdyf.jpg",
+    blurb: "Three sessions by phone at a discounted rate.",
+    href: "https://innerinsights.simplybook.me/v2/#packages/11",
+  },
+  {
+    slug: "bundle-card-zoom",
+    title: "3 Card Reading Bundle",
+    img: "/images/merch/cards-hrdyf.jpg",
+    blurb: "Three sessions by Zoom at a discounted rate.",
+    href: "https://innerinsights.simplybook.me/v2/#packages/12",
+  },
+  {
+    slug: "bundle-energy-phone",
+    title: "3 Energy Healing Bundle",
+    img: "/images/merch/reiki-c1yse.jpg",
+    blurb: "Three distance healing sessions by phone.",
+    href: "https://innerinsights.simplybook.me/v2/#packages/14",
+  },
+  {
+    slug: "bundle-energy-zoom",
+    title: "3 Energy Healing Bundle",
+    img: "/images/merch/energy-ynkep.jpg",
+    blurb: "Three distance healing sessions by Zoom.",
+    href: "https://innerinsights.simplybook.me/v2/#packages/13",
   },
 ];
 
@@ -92,8 +127,9 @@ export default function Home() {
             <p className="text-[11px] sm:text-xs uppercase tracking-[0.5em] text-gold">
               Claudia Romo
             </p>
-            <h1 className="font-display mt-6 text-5xl sm:text-6xl lg:text-7xl font-medium italic text-white leading-[1.05] drop-shadow-[0_2px_20px_rgba(0,0,0,0.6)]">
-              Psychic <span className="text-plum-soft">Medium</span>
+            <h1 className="font-display mt-6 text-4xl sm:text-5xl lg:text-6xl font-medium italic text-white leading-[1.05] drop-shadow-[0_2px_20px_rgba(0,0,0,0.6)]">
+              <span className="block">Psychic <span className="text-plum-soft">Medium</span></span>
+              <span className="block mt-2">&amp; Life <span className="text-plum-soft">Coach</span></span>
             </h1>
             <div className="mt-10 flex flex-wrap justify-center md:justify-start gap-3">
               <a
@@ -132,7 +168,8 @@ export default function Home() {
           </p>
           <p>
             I&apos;ll be your dedicated{" "}
-            <span className="italic text-plum-soft">Spiritual Bestie</span> in
+            <span className="italic text-plum-soft">Spiritual Bestie</span> and{" "}
+            <span className="italic text-gold">Imperfect Ally</span> on
             this exhilarating roller coaster called life.
           </p>
           <p className="text-ink">Work with me, it will be fun!</p>
@@ -154,7 +191,7 @@ export default function Home() {
           <span className="h-px flex-1 bg-gradient-to-l from-transparent to-gold/50" aria-hidden />
         </div>
 
-        {/* Spiritual Guidance */}
+        {/* Spiritual Guidance — single readings + multi-session bundles */}
         <div className="mb-12">
           <header className="mb-5 flex items-center gap-4">
             <span className="text-[11px] uppercase tracking-[0.4em] text-gold">Spiritual Guidance</span>
@@ -162,6 +199,20 @@ export default function Home() {
           </header>
           <div className="grid gap-5 sm:grid-cols-2 md:grid-cols-3">
             {SPIRITUAL.map((s) => <ServiceCard key={s.slug} {...s} />)}
+          </div>
+
+          {/* Session Bundles nested inside Spiritual Guidance */}
+          <div className="mt-10">
+            <header className="mb-4 flex items-center gap-4">
+              <span className="text-[10px] uppercase tracking-[0.35em] text-gold/80">Session Bundles</span>
+              <span className="h-px flex-1 bg-gold/15" aria-hidden />
+            </header>
+            <p className="mb-5 max-w-2xl text-sm text-muted leading-relaxed">
+              Three-session packages of Card Readings or Energy Healing, by phone or Zoom, at a discounted rate.
+            </p>
+            <div className="grid gap-5 sm:grid-cols-2 md:grid-cols-4">
+              {BUNDLES.map((s) => <ServiceCard key={s.slug} {...s} />)}
+            </div>
           </div>
         </div>
 
@@ -183,9 +234,9 @@ export default function Home() {
             <span className="h-px flex-1 bg-gold/20" aria-hidden />
           </header>
           <p className="mb-5 max-w-2xl text-sm text-muted leading-relaxed">
-            For former coaching clients ready to start their own life coaching practice. The
-            <span className="italic text-plum-soft"> 3-Month Imperfect Coach Program</span> includes
-            mentorship, frameworks, and the access you need to launch with confidence.
+            For coaching clients ready to start their own coaching practice.{" "}
+            <span className="italic font-bold text-plum-soft">The Imperfect Coach Mentorship Experience</span> includes
+            mentorship, professional and spiritual frameworks, and the business access you need to launch with confidence.
           </p>
           <div className="grid gap-5 sm:grid-cols-2 md:grid-cols-2 lg:max-w-3xl">
             {MENTORSHIP.map((s) => <ServiceCard key={s.slug} {...s} />)}
@@ -201,27 +252,36 @@ export default function Home() {
 
       <div className="py-4"><MoonDivider /></div>
 
-      {/* ── PSYCHIC TEST (inlined with lead magnet) ───────────── */}
-      <section id="psychic-test" className="relative overflow-hidden border-y border-white/5 scroll-mt-40">
+      {/* ── FREE LIFE PATH NUMBER ASSESSMENT (inlined with lead magnet) ── */}
+      <section id="life-path-number" className="relative overflow-hidden border-y border-white/5 scroll-mt-40">
         {/* Ambient motion: drifting orbs, kept gentle */}
         <div className="pointer-events-none absolute -top-24 left-1/4 h-72 w-72 rounded-full bg-gold/10 blur-3xl animate-drift-slow" aria-hidden />
         <div className="pointer-events-none absolute -bottom-24 right-1/4 h-72 w-72 rounded-full bg-plum/12 blur-3xl animate-drift-slow-reverse" aria-hidden />
 
         <div className="relative mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 py-14 grid md:grid-cols-[1.15fr_0.85fr] gap-10 items-center">
           <div className="scroll-slide-left">
-            <p className="text-xs uppercase tracking-[0.3em] text-gold">Free Assessment</p>
+            <p className="text-xs uppercase tracking-[0.3em] text-gold">Free Guide</p>
             <h2 className="mt-3 font-display text-3xl sm:text-4xl italic font-medium leading-tight">
-              Are you <span className="text-plum-soft">psychic?</span>
+              What is your <span className="text-plum-soft">life path number</span>—really?
             </h2>
-            <p className="mt-4 text-sm sm:text-base text-muted leading-relaxed">
-              You&apos;ve felt it your whole life: the nudges, the knowing, the
-              dreams that aren&apos;t quite dreams. Drop your email and I&apos;ll
-              send my <span className="italic text-plum-soft">Psychic Abilities Assessment</span> PDF right over, free.
-            </p>
-
-            <div className="mt-6">
-              <PsychicTestForm />
+            <div className="mt-4 space-y-4 text-sm sm:text-base text-muted leading-relaxed">
+              <p>
+                You&apos;ve always felt there was more to your story than coincidence. Patterns
+                that repeat. Lessons that won&apos;t let go. A quiet sense that your life is
+                trying to teach you something important.
+              </p>
+              <p>
+                Your <span className="italic text-plum-soft">Life Path Number</span>{" "}
+                reveals the core energy you&apos;re here to embody — your natural strengths, hidden challenges, and the soul
+                lessons shaping your journey across a lifetime.
+              </p>
+              <p>
+                It&apos;s not just a number; it&apos;s a mirror reflecting who you are becoming and
+                how you&apos;re meant to move through the world.
+              </p>
             </div>
+
+            <LifePathNumberForm source="home-life-path" />
           </div>
 
           <div className="relative scroll-slide-right">

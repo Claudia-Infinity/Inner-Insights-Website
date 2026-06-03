@@ -1,7 +1,22 @@
-type FAQ = { q: string; a: string[] };
+type FAQGuide = { label: string; href: string };
+type FAQ = { q: string; a: string[]; guides?: FAQGuide[]; cta?: { label: string; href: string } };
 
 // Answers are verbatim from Claudia's FAQ documents.
 const FAQS: FAQ[] = [
+  {
+    q: "Can I book my sessions on an App?",
+    a: [
+      "Yes. Download the Inner Insights Booking App on your iPhone or Android smartphone.",
+      "Click the button below to begin the download process — or copy the link and paste it into your favorite browser to install the app on your smartphone, tablet, or desktop computer.",
+      "Below are easy-to-follow booking app guides, complete with screenshots, to help you schedule card readings, energy healings, life coaching, and coach mentorship sessions.",
+    ],
+    cta: { label: "Download the Booking App", href: "https://innerinsights.simplybook.me/v2/app" },
+    guides: [
+      { label: "Inner Insights Client Booking App Guide (PDF)",          href: "https://drive.google.com/file/d/1nA0NbB5JQb--Wns2f-A3paPWL2eUheek/view?usp=drive_link" },
+      { label: "The Imperfect Coach Client Booking App Guide (PDF)",     href: "https://drive.google.com/file/d/1lm3_5WIZNeG2VQeodfX-6MGMym-dEbB0/view?usp=drive_link" },
+      { label: "The Imperfect Coach Mentorship Booking App Guide (PDF)", href: "https://drive.google.com/file/d/1VejB5hBOJcIwm4RApvjTzmQgRcWvZuW3/view?usp=drive_link" },
+    ],
+  },
   {
     q: "Why should I do a card reading?",
     a: [
@@ -37,6 +52,23 @@ const FAQS: FAQ[] = [
       "Here's the secret that I discovered and ultimately freed me. You don't have to be perfect to BE HAPPY. That's why I call myself \"The Imperfect Coach.\" I can teach you to live a fabulous life imperfectly and with great delight!",
     ],
   },
+  {
+    q: "Legal Disclaimer",
+    a: [
+      "Please be advised that sessions cannot predict, forecast, diagnose, or provide information with absolute certainty. A session should be for your own enjoyment and spiritual growth. I cannot claim 100% accuracy due to things unforeseen, free-will, a change during life events or an element of human error.",
+      "No guarantees or assurances of any kind are given, and Claudia Romo will not be held accountable for any interpretations or decisions made by recipients based on information provided during sessions. Also, due to my ethics regarding privacy, I will NEVER share the contents and details of personal sessions in a public forum or within social media unless you give consent.",
+      "* For medical concerns, please consult with a licensed Physician.",
+      "* For legal matters, please contact a licensed Attorney.",
+    ],
+  },
+  {
+    q: "Emergency 24-Hour Notice Cancellation Policy",
+    a: [
+      "In case you have an emergency or illness and cannot make your appointment, you must give Claudia 24-hour notice to receive a full refund.",
+      "Please notify Claudia by telephone by calling or texting 214-686-5188. Leave a message with your name, date and time of appointment or send an email with the requested details to: claudia@innerinsights.shop",
+      "Claudia will collaborate with you to reschedule your appointment at no extra cost.",
+    ],
+  },
 ];
 
 export default function FAQSection() {
@@ -67,6 +99,38 @@ export default function FAQSection() {
             </summary>
             <div className="mt-4 space-y-3 text-sm leading-relaxed text-muted">
               {f.a.map((para, i) => <p key={i}>{para}</p>)}
+              {f.cta && (
+                <p>
+                  <a
+                    href={f.cta.href}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center rounded-full bg-gold px-5 py-2 text-sm font-semibold text-background transition hover:bg-gold/90"
+                  >
+                    {f.cta.label}
+                  </a>
+                </p>
+              )}
+              {f.guides && f.guides.length > 0 && (
+                <ul className="mt-2 space-y-2">
+                  {f.guides.map((g) => (
+                    <li key={g.href}>
+                      <a
+                        href={g.href}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-flex items-center gap-2 text-plum-soft underline underline-offset-4 hover:text-gold"
+                      >
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+                          <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" />
+                          <path d="M14 2v6h6" />
+                        </svg>
+                        {g.label}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              )}
             </div>
           </details>
         ))}

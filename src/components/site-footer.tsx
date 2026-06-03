@@ -14,7 +14,7 @@ const SOCIAL: { href: string; label: string; icon: React.ReactNode }[] = [
     ),
   },
   {
-    href: "https://facebook.com/innerinsights888",
+    href: "https://www.facebook.com/TheInnerInsights888",
     label: "Facebook",
     icon: (
       <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden>
@@ -23,7 +23,7 @@ const SOCIAL: { href: string; label: string; icon: React.ReactNode }[] = [
     ),
   },
   {
-    href: "https://tiktok.com/@innerinsights888",
+    href: "https://www.tiktok.com/@claudiainfinityai",
     label: "TikTok",
     icon: (
       <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden>
@@ -32,7 +32,7 @@ const SOCIAL: { href: string; label: string; icon: React.ReactNode }[] = [
     ),
   },
   {
-    href: "https://linkedin.com/in/claudia-romo",
+    href: "https://www.linkedin.com/in/claudiavromo/",
     label: "LinkedIn",
     icon: (
       <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden>
@@ -58,7 +58,7 @@ const EXPLORE = [
   { href: "/faq", label: "FAQ" },
   { href: "/blog", label: "Blog" },
   { href: "/merch", label: "Shop" },
-  { href: "/psychic-test", label: "Free Psychic Test" },
+  { href: "/life-path-number", label: "Free Life Path Number Assessment" },
   { href: "/contact", label: "Contact" },
 ];
 
@@ -118,8 +118,8 @@ export default function SiteFooter() {
           <h4 className="text-xs uppercase tracking-[0.3em] text-gold">Get in touch</h4>
           <ul className="mt-4 space-y-3 text-sm">
             <li>
-              <a href="mailto:innerinsights888@gmail.com" className="text-ink/85 transition hover:text-plum-soft">
-                innerinsights888@gmail.com
+              <a href="mailto:claudia@innerinsights.shop" className="text-ink/85 transition hover:text-plum-soft">
+                claudia@innerinsights.shop
               </a>
             </li>
             <li>

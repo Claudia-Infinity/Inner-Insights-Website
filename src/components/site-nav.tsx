@@ -11,10 +11,10 @@ const DRAWER_SOCIAL: { href: string; label: string; svg: React.ReactNode }[] = [
   { href: "https://instagram.com/innerinsights888", label: "Instagram", svg: (
     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7" strokeLinecap="round" strokeLinejoin="round"><rect x="3" y="3" width="18" height="18" rx="5" /><circle cx="12" cy="12" r="4" /><circle cx="17.5" cy="6.5" r="1" fill="currentColor" /></svg>
   ) },
-  { href: "https://tiktok.com/@innerinsights888", label: "TikTok", svg: (
+  { href: "https://www.tiktok.com/@claudiainfinityai", label: "TikTok", svg: (
     <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M19.3 8.8a6.5 6.5 0 0 1-3.8-1.2v7.1a5.4 5.4 0 1 1-5.4-5.4c.3 0 .5 0 .8.1v2.8a2.6 2.6 0 1 0 1.8 2.5V3h2.7a3.8 3.8 0 0 0 3.9 3.5v2.3z" /></svg>
   ) },
-  { href: "https://facebook.com/innerinsights888", label: "Facebook", svg: (
+  { href: "https://www.facebook.com/TheInnerInsights888", label: "Facebook", svg: (
     <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M13.5 22v-8h2.7l.4-3.1h-3.1V9c0-.9.2-1.5 1.6-1.5h1.6V4.7c-.3 0-1.2-.1-2.3-.1-2.3 0-3.9 1.4-3.9 3.9v2.4H7.8V14h2.7v8h3z" /></svg>
   ) },
   { href: "https://www.quora.com/profile/Claudia-Romo-34", label: "Quora", svg: (

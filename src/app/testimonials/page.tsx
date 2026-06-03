@@ -4,6 +4,18 @@ import type { Metadata } from "next";
 export const metadata: Metadata = { title: "Testimonials" };
 
 const ALL = [
+  // Coaching client testimonials — Claudia "The Imperfect Coach"
+  { quote: "Working with Claudia has been a game-changer. Her intuitive strategies are gold & her vibrant energy is infectious. I have achieved milestones I never thought possible!", name: "Juliana Silva", role: "Health Communications Professional · Albuquerque, NM", photo: "/images/testimonials/Juliana Silva.jpg" },
+  { quote: "Claudia's approach to coaching is both compassionate and results driven. I have found a newfound clarity and direction in my career, all thanks to her guidance.", name: "Nina Van Houten", role: "Artist & Creative · San Jose, CA", photo: "/images/testimonials/Nina Van Houten.jpg", objectPosition: "center 22%" },
+  { quote: "Claudia encouraged me to dream big and then equipped me with the intuitive tools to make those dreams a reality. I feel more empowered and inspired than ever before.", name: "Bailey D. Dupont", role: "Public Relations Director · Houston, TX", photo: "/images/testimonials/Bailey DuPont.jpg" },
+  { quote: "Working with Claudia gave me the confidence I needed to transition from the gaming world to becoming a full-time spiritual entrepreneur. I am happy and living my life purpose.", name: "Derrick Hobbs", role: "App and Game Developer · Los Angeles, CA", photo: "/images/testimonials/Derrick Hobbs.jpg" },
+  { quote: "I dreamt of finding a Nubian King to marry but lacked the self-confidence to put myself out there. Claudia lovingly (and hilariously) coached me to success. I am ENGAGED y'all!", name: "Claudia Alvares", role: "Hairstylist & Soon-to-Be Bride · Dallas, TX", photo: "/images/testimonials/Claudia Alvares.jpg" },
+  { quote: "Claudia's unique insights and her attention to the 'not so obvious' lends to her overall spirit and excellence as an intuitive business acceleration coach. She is truly exceptional.", name: "Leslie Steffenson", role: "Interior Design Business Owner · Brooklyn, NY", photo: "/images/testimonials/Leslie Steffenson.jpg" },
+  { quote: "Working with Claudia at the VIP level manifested a miracle. Her non-judgmental coaching sessions saved my marriage. She gave us the gifts of imperfection & grace.", name: "Marjorie Brown", role: "Retired Professor · Miami, FL", photo: "/images/testimonials/Marjorie Brown.jpg" },
+  { quote: "I don't make any major business decisions without consulting with Claudia. She is my secret weapon. I call her 'The Woo of Wall Street.' She developed my insights!", name: "Bradley H. Welch", role: "Financial Advisor · New York, NY", photo: "/images/testimonials/Bradley Welch.jpg" },
+  { quote: "Claudia encouraged me to pursue my creativity and equipped me with the tools to transition from school teaching to a $3M+ Content Creator living with freedom.", name: "Marianna Ortiz", role: "Content Creator · Venezuela", photo: "/images/testimonials/Marianna Ortiz.jpg" },
+
+  // Reading / healing / class client testimonials
   { quote: "When I was at my lowest, Claudia helped me see the situation for what it was. The angelic card readings and Vision Board class helped guide me in the right direction. Her advice on how to bring abundance to me worked and still is working! Everyone around me can't believe how lucky I am. I am still experiencing on-going miracles! Claudia is the best! She uses God's light to guide her.", name: "Cindy G.", role: "Texas, USA", photo: "/images/testimonials/Cindy G.jpg" },
   { quote: "Claudia is the most accessible, understanding, calm human being I have ever encountered. She often knows what I need/feel long before I am aware of it. Claudia's classes helped this beginner tap into my inner power. I felt comfortable from the first second I entered her presence. I left every class feeling at peace, connected with my peers and most of all with a better understanding of myself.", name: "Nicole B.", role: "Texas, USA", photo: "/images/testimonials/Nicole B.jpg" },
   { quote: "Claudia's dedication to her clients and passion for what she does is unmatched. She sets forth the best intention and seeks to offer her best self in all aspects of services she offers. Classes and literature provided are well organized and professional. Meeting Claudia has been life changing.", name: "Tammiko J.", role: "Texas, USA", photo: "/images/testimonials/Tammiko J.jpg" },
@@ -52,7 +64,7 @@ export default function TestimonialsPage() {
             <p className="flex-1 text-sm leading-relaxed text-ink/90">{t.quote}</p>
             <footer className="flex items-center gap-3 border-t border-white/5 pt-4">
               <span className="relative h-12 w-12 flex-shrink-0 overflow-hidden rounded-full ring-1 ring-gold/30">
-                <Image src={t.photo} alt={t.name} fill sizes="48px" className="object-cover" />
+                <Image src={t.photo} alt={t.name} fill sizes="48px" className="object-cover" style={"objectPosition" in t && t.objectPosition ? { objectPosition: t.objectPosition as string } : undefined} />
               </span>
               <div>
                 <p className="text-sm font-medium text-white">{t.name}</p>

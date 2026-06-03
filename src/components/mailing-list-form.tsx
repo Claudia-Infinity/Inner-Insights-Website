@@ -22,7 +22,7 @@ export default function MailingListForm({ source = "about" }: { source?: string 
 
   if (status === "done") {
     return (
-      <p className="mt-5 text-sm text-plum-soft">Welcome, soul sister ✨ Check your inbox.</p>
+      <p className="mt-5 text-sm text-plum-soft">Welcome, seeker ✨ Your insight has been delivered — check your inbox.</p>
     );
   }
 
