@@ -6,7 +6,7 @@ export const metadata: Metadata = { title: "Testimonials" };
 const ALL = [
   // Coaching client testimonials — Claudia "The Imperfect Coach"
   { quote: "Working with Claudia has been a game-changer. Her intuitive strategies are gold & her vibrant energy is infectious. I have achieved milestones I never thought possible!", name: "Juliana Silva", role: "Health Communications Professional · Albuquerque, NM", photo: "/images/testimonials/Juliana Silva.jpg" },
-  { quote: "Claudia's approach to coaching is both compassionate and results driven. I have found a newfound clarity and direction in my career, all thanks to her guidance.", name: "Nina Van Houten", role: "Artist & Creative · San Jose, CA", photo: "/images/testimonials/Nina Van Houten.jpg" },
+  { quote: "Claudia's approach to coaching is both compassionate and results driven. I have found a newfound clarity and direction in my career, all thanks to her guidance.", name: "Nina Van Houten", role: "Artist & Creative · San Jose, CA", photo: "/images/testimonials/Nina Van Houten.jpg", objectPosition: "center 22%" },
   { quote: "Claudia encouraged me to dream big and then equipped me with the intuitive tools to make those dreams a reality. I feel more empowered and inspired than ever before.", name: "Bailey D. Dupont", role: "Public Relations Director · Houston, TX", photo: "/images/testimonials/Bailey DuPont.jpg" },
   { quote: "Working with Claudia gave me the confidence I needed to transition from the gaming world to becoming a full-time spiritual entrepreneur. I am happy and living my life purpose.", name: "Derrick Hobbs", role: "App and Game Developer · Los Angeles, CA", photo: "/images/testimonials/Derrick Hobbs.jpg" },
   { quote: "I dreamt of finding a Nubian King to marry but lacked the self-confidence to put myself out there. Claudia lovingly (and hilariously) coached me to success. I am ENGAGED y'all!", name: "Claudia Alvares", role: "Hairstylist & Soon-to-Be Bride · Dallas, TX", photo: "/images/testimonials/Claudia Alvares.jpg" },
@@ -64,7 +64,7 @@ export default function TestimonialsPage() {
             <p className="flex-1 text-sm leading-relaxed text-ink/90">{t.quote}</p>
             <footer className="flex items-center gap-3 border-t border-white/5 pt-4">
               <span className="relative h-12 w-12 flex-shrink-0 overflow-hidden rounded-full ring-1 ring-gold/30">
-                <Image src={t.photo} alt={t.name} fill sizes="48px" className="object-cover" />
+                <Image src={t.photo} alt={t.name} fill sizes="48px" className="object-cover" style={"objectPosition" in t && t.objectPosition ? { objectPosition: t.objectPosition as string } : undefined} />
               </span>
               <div>
                 <p className="text-sm font-medium text-white">{t.name}</p>
