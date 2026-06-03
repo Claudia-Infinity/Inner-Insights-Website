@@ -52,6 +52,23 @@ const FAQS: FAQ[] = [
       "Here's the secret that I discovered and ultimately freed me. You don't have to be perfect to BE HAPPY. That's why I call myself \"The Imperfect Coach.\" I can teach you to live a fabulous life imperfectly and with great delight!",
     ],
   },
+  {
+    q: "Legal Disclaimer",
+    a: [
+      "Please be advised that sessions cannot predict, forecast, diagnose, or provide information with absolute certainty. A session should be for your own enjoyment and spiritual growth. I cannot claim 100% accuracy due to things unforeseen, free-will, a change during life events or an element of human error.",
+      "No guarantees or assurances of any kind are given, and Claudia Romo will not be held accountable for any interpretations or decisions made by recipients based on information provided during sessions. Also, due to my ethics regarding privacy, I will NEVER share the contents and details of personal sessions in a public forum or within social media unless you give consent.",
+      "* For medical concerns, please consult with a licensed Physician.",
+      "* For legal matters, please contact a licensed Attorney.",
+    ],
+  },
+  {
+    q: "Emergency 24-Hour Notice Cancellation Policy",
+    a: [
+      "In case you have an emergency or illness and cannot make your appointment, you must give Claudia 24-hour notice to receive a full refund.",
+      "Please notify Claudia by telephone by calling or texting 214-686-5188. Leave a message with your name, date and time of appointment or send an email with the requested details to: claudia@innerinsights.shop",
+      "Claudia will collaborate with you to reschedule your appointment at no extra cost.",
+    ],
+  },
 ];
 
 export default function FAQSection() {

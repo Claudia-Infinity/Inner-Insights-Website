@@ -1,10 +1,10 @@
 /**
- * Life Path Number — Pythagorean numerology.
+ * Life Path Number — Pythagorean numerology, single-digit reduction (1-9 only).
  *
- * Algorithm (verbatim from numerological tradition; matches every reputable
- * source). Sum the digits of the full birthday MM-DD-YYYY, reducing to a
- * single digit 1-9. The Master Numbers 11, 22, 33 are preserved when they
- * appear at any reduction step — they are not collapsed further.
+ * Per Claudia's published guide, Master Numbers (11, 22, 33, 44) are NOT preserved
+ * — they reduce all the way to a single digit. The Inner Insights Life Path Number
+ * Guide PDF covers only 1-9, so any double-digit total is summed once more so the
+ * archetype it returns matches the guide the subscriber receives.
  *
  * Example: October 5, 1973  →  10-5-1973
  *   month:  1 + 0       = 1
@@ -13,21 +13,13 @@
  *   total:  1 + 5 + 2   = 8  → Life Path 8
  */
 
-export type LifePathNumber = 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 11 | 22 | 33;
+export type LifePathNumber = 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9;
 
-const MASTER_NUMBERS = new Set([11, 22, 33]);
-
-/** Reduce a number to a single digit unless it is a Master Number (11/22/33). */
-function reduceWithMasters(n: number): number {
-  while (n > 9 && !MASTER_NUMBERS.has(n)) {
+function reduceToDigit(n: number): number {
+  while (n > 9) {
     n = String(n).split("").reduce((s, d) => s + Number(d), 0);
   }
   return n;
-}
-
-/** Sum digits without reducing — used as the inner step. */
-function sumDigits(n: number): number {
-  return String(n).split("").reduce((s, d) => s + Number(d), 0);
 }
 
 export function computeLifePath(month: number, day: number, year: number): LifePathNumber {
@@ -38,10 +30,10 @@ export function computeLifePath(month: number, day: number, year: number): LifeP
   ) {
     throw new Error("Invalid date for Life Path calculation.");
   }
-  const m = reduceWithMasters(month <= 9 ? month : sumDigits(month));
-  const d = reduceWithMasters(day   <= 9 ? day   : sumDigits(day));
-  const y = reduceWithMasters(sumDigits(year));
-  const total = reduceWithMasters(m + d + y);
+  const m = reduceToDigit(month);
+  const d = reduceToDigit(day);
+  const y = reduceToDigit(year);
+  const total = reduceToDigit(m + d + y);
   return total as LifePathNumber;
 }
 
@@ -55,7 +47,7 @@ export interface LifePathArchetype {
 }
 
 // Archetype copy aligned with Claudia's "Imperfect Coach" voice — encouraging,
-// growth-oriented, no fear-based framing. Master numbers preserved separately.
+// growth-oriented, no fear-based framing. Single-digit archetypes only.
 export const LIFE_PATH_ARCHETYPES: Record<LifePathNumber, LifePathArchetype> = {
   1: {
     number: 1,
@@ -128,30 +120,6 @@ export const LIFE_PATH_ARCHETYPES: Record<LifePathNumber, LifePathArchetype> = {
     strengths: ["Compassionate", "Wise beyond years", "Globally-minded", "Artistic"],
     shadows: ["Self-sacrifice", "Difficulty letting go", "Emotional overwhelm"],
     callingCard: "Endings are your superpower — let things finish so new things can begin.",
-  },
-  11: {
-    number: 11,
-    title: "The Illuminator (Master Number)",
-    oneLine: "A spiritual messenger here to wake others up.",
-    strengths: ["Highly intuitive", "Inspirational", "Visionary", "Channel for higher wisdom"],
-    shadows: ["Anxiety", "Self-doubt about the calling", "Burnout from over-channeling"],
-    callingCard: "You feel everything for a reason — the world needs your sensitivity.",
-  },
-  22: {
-    number: 22,
-    title: "The Master Builder (Master Number)",
-    oneLine: "A visionary architect of large-scale dreams made real.",
-    strengths: ["Practical visionary", "Disciplined", "Transformational", "Global impact"],
-    shadows: ["Crippling self-doubt", "Fear of the scale of your calling", "Perfectionism"],
-    callingCard: "Your dreams are big because you were built for big work — start anyway.",
-  },
-  33: {
-    number: 33,
-    title: "The Master Teacher (Master Number)",
-    oneLine: "A devoted healer and teacher of unconditional love.",
-    strengths: ["Profound compassion", "Selfless service", "Spiritual mastery", "Heart-centered leadership"],
-    shadows: ["Martyrdom complex", "Burnout from over-giving", "Difficulty receiving"],
-    callingCard: "Love is your medicine — the world is your patient. Pace yourself.",
   },
 };
 

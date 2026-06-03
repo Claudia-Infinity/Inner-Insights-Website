@@ -28,8 +28,8 @@ export default function LifePathNumberPage() {
                 to teach you something important.
               </p>
               <p>
-                Your <span className="italic text-plum-soft">Life Path Number</span> reveals the core
-                energy you&apos;re here to embody — your natural strengths, hidden challenges, and the
+                Your <span className="italic text-plum-soft">Life Path Number</span>{" "}
+                reveals the core energy you&apos;re here to embody — your natural strengths, hidden challenges, and the
                 soul lessons shaping your journey across a lifetime.
               </p>
               <p>
