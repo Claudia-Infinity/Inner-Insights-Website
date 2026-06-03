@@ -1,4 +1,5 @@
 import { streamText, convertToModelMessages, type UIMessage } from "ai";
+import { anthropic } from "@ai-sdk/anthropic";
 import { POSTS } from "@/content/blog/posts";
 
 export const runtime = "nodejs";
@@ -72,18 +73,18 @@ If the user's request is off-topic (coding help, news, trivia), gently steer bac
 export async function POST(req: Request) {
   const { messages }: { messages: UIMessage[] } = await req.json().catch(() => ({ messages: [] }));
 
-  if (!process.env.AI_GATEWAY_API_KEY) {
+  if (!process.env.ANTHROPIC_API_KEY) {
     return new Response(
       JSON.stringify({
-        error: "AI_GATEWAY_API_KEY not set",
-        hint: "Add your Vercel AI Gateway key to enable Infinity.",
+        error: "ANTHROPIC_API_KEY not set",
+        hint: "Add your Anthropic API key to enable Infinity.",
       }),
       { status: 503, headers: { "Content-Type": "application/json" } }
     );
   }
 
   const result = streamText({
-    model: "anthropic/claude-haiku-4-5",
+    model: anthropic("claude-haiku-4-5"),
     system: buildSystem(),
     messages: await convertToModelMessages(messages),
     temperature: 0.7,
