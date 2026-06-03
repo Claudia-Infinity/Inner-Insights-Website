@@ -191,7 +191,7 @@ export default function Home() {
           <span className="h-px flex-1 bg-gradient-to-l from-transparent to-gold/50" aria-hidden />
         </div>
 
-        {/* Spiritual Guidance */}
+        {/* Spiritual Guidance — single readings + multi-session bundles */}
         <div className="mb-12">
           <header className="mb-5 flex items-center gap-4">
             <span className="text-[11px] uppercase tracking-[0.4em] text-gold">Spiritual Guidance</span>
@@ -199,6 +199,20 @@ export default function Home() {
           </header>
           <div className="grid gap-5 sm:grid-cols-2 md:grid-cols-3">
             {SPIRITUAL.map((s) => <ServiceCard key={s.slug} {...s} />)}
+          </div>
+
+          {/* Session Bundles nested inside Spiritual Guidance */}
+          <div className="mt-10">
+            <header className="mb-4 flex items-center gap-4">
+              <span className="text-[10px] uppercase tracking-[0.35em] text-gold/80">Session Bundles</span>
+              <span className="h-px flex-1 bg-gold/15" aria-hidden />
+            </header>
+            <p className="mb-5 max-w-2xl text-sm text-muted leading-relaxed">
+              Three-session packages of Card Readings or Energy Healing, by phone or Zoom, at a discounted rate.
+            </p>
+            <div className="grid gap-5 sm:grid-cols-2 md:grid-cols-4">
+              {BUNDLES.map((s) => <ServiceCard key={s.slug} {...s} />)}
+            </div>
           </div>
         </div>
 
@@ -210,20 +224,6 @@ export default function Home() {
           </header>
           <div className="grid gap-5 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5">
             {GROWTH.map((s) => <ServiceCard key={s.slug} {...s} />)}
-          </div>
-        </div>
-
-        {/* Service Bundles — multi-session packages at a discounted rate */}
-        <div className="mb-12">
-          <header className="mb-5 flex items-center gap-4">
-            <span className="text-[11px] uppercase tracking-[0.4em] text-gold">Service Bundles</span>
-            <span className="h-px flex-1 bg-gold/20" aria-hidden />
-          </header>
-          <p className="mb-5 max-w-2xl text-sm text-muted leading-relaxed">
-            Three-session packages of Card Readings or Energy Healing, by phone or Zoom, at a discounted rate.
-          </p>
-          <div className="grid gap-5 sm:grid-cols-2 md:grid-cols-4">
-            {BUNDLES.map((s) => <ServiceCard key={s.slug} {...s} />)}
           </div>
         </div>
 
