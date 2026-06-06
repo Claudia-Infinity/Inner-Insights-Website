@@ -57,23 +57,23 @@ const BOOKS: Item[] = [
 ];
 
 const GUIDES: Item[] = [
-  { slug: "vision-hacks",       title: "Vision Board Hacks",          subtitle: "Step-by-step to a vision board that actually works.", img: "/images/merch/1-vision-board-hacks-cover-3ko1c.jpg",         href: "https://claudiainfinity.gumroad.com/l/kremsw",        cta: "Buy on Gumroad", external: true },
-  { slug: "magnetize-vision",   title: "Magnetize Your Vision Board", subtitle: "Make your board a manifestation magnet.",            img: "/images/merch/1-magnetize-your-vision-board-cover-xmida.jpg", href: "https://claudiainfinity.gumroad.com/l/tihgl",        cta: "Buy on Gumroad", external: true },
-  { slug: "top-manifesting",    title: "Top Manifesting Secrets",     subtitle: "My highest-leverage manifestation practices.",       img: "/images/merch/1-top-manifesting-secrets-cover-1t9k8.jpg",    href: "https://claudiainfinity.gumroad.com/l/tgays",        cta: "Buy on Gumroad", external: true },
-  { slug: "intuitive-tarot",    title: "The Intuitive Tarot Guide",   subtitle: "Read cards with confidence and intuition.",          img: "/images/merch/1-the-intuitive-tarot-cover-uestj.jpg",        href: "https://claudiainfinity.gumroad.com/l/orfaf",        cta: "Buy on Gumroad", external: true },
-  { slug: "love-myself",        title: "How I Learned to Love Myself",subtitle: "The inner journey in a gentle workbook.",            img: "/images/merch/1-how-i-learned-to-love-myself-cover-xde33.jpg",href: "https://claudiainfinity.gumroad.com/l/jrepv",        cta: "Buy on Gumroad", external: true },
-  { slug: "sacred-space",       title: "Sacred Space: Creating an Altar", subtitle: "Create a space for meditation, magic, and ritual.", img: "/images/merch/cover-thumbnail-x6k06.jpg",               href: "https://claudiainfinity.gumroad.com/l/altar",        cta: "Buy on Gumroad", external: true },
-  { slug: "unlock-love",        title: "Unlock True Love",            subtitle: "A complete step-by-step attraction blueprint.",      img: "/images/merch/thumbnail-cover-8gj65.jpg",                   href: "https://claudiainfinity.gumroad.com/l/truelove",     cta: "Buy on Gumroad", external: true },
-  { slug: "attract-soulmate",   title: "Attract Your Soulmate Faster",subtitle: "Four powerful high-frequency love practices.",       img: "/images/merch/cover-thumbnail-6gba7.jpg",                   href: "https://claudiainfinity.gumroad.com/l/attractlovefast", cta: "Buy on Gumroad", external: true },
+  { slug: "vision-hacks",       title: "Vision Board Hacks",          subtitle: "Step-by-step to a vision board that actually works.", img: "/images/merch/guide-vision-board-hacks.jpeg",         href: "https://claudiainfinity.gumroad.com/l/kremsw",        cta: "Buy on Gumroad", external: true },
+  { slug: "magnetize-vision",   title: "Magnetize Your Vision Board", subtitle: "Make your board a manifestation magnet.",            img: "/images/merch/guide-magnetize-your-vision-board.jpeg", href: "https://claudiainfinity.gumroad.com/l/tihgl",        cta: "Buy on Gumroad", external: true },
+  { slug: "top-manifesting",    title: "Top Manifesting Secrets",     subtitle: "My highest-leverage manifestation practices.",       img: "/images/merch/guide-top-manifesting-secrets.jpeg",    href: "https://claudiainfinity.gumroad.com/l/tgays",        cta: "Buy on Gumroad", external: true },
+  { slug: "intuitive-tarot",    title: "The Intuitive Tarot Guide",   subtitle: "Read cards with confidence and intuition.",          img: "/images/merch/guide-the-intuitive-tarot.jpeg",        href: "https://claudiainfinity.gumroad.com/l/orfaf",        cta: "Buy on Gumroad", external: true },
+  { slug: "love-myself",        title: "How I Learned to Love Myself",subtitle: "The inner journey in a gentle workbook.",            img: "/images/merch/guide-how-i-learned-to-love-myself.jpeg",href: "https://claudiainfinity.gumroad.com/l/jrepv",        cta: "Buy on Gumroad", external: true },
+  { slug: "sacred-space",       title: "Sacred Space: Creating an Altar", subtitle: "Create a space for meditation, magic, and ritual.", img: "/images/merch/guide-sacred-space-altar.jpeg",      href: "https://claudiainfinity.gumroad.com/l/altar",        cta: "Buy on Gumroad", external: true },
+  { slug: "unlock-love",        title: "Unlock True Love",            subtitle: "A complete step-by-step attraction blueprint.",      img: "/images/merch/guide-unlock-true-love.jpeg",          href: "https://claudiainfinity.gumroad.com/l/truelove",     cta: "Buy on Gumroad", external: true },
+  { slug: "attract-soulmate",   title: "Attract Your Soulmate Faster",subtitle: "Four powerful high-frequency love practices.",       img: "/images/merch/guide-attract-soulmate-faster.jpeg",   href: "https://claudiainfinity.gumroad.com/l/attractlovefast", cta: "Buy on Gumroad", external: true },
 ];
 
 const GIFT_CARD_URL = "https://innerinsights.simplybook.me/v2/#gift-card";
 
 const GIFTS: Item[] = [
-  { slug: "gift-session",       title: "Gift Card — Session with Claudia",  subtitle: "One session of your giftee's choice.",              img: "/images/merch/glasses-cropped-mfoc8.jpg",   href: GIFT_CARD_URL, cta: "Gift Now", external: true },
-  { slug: "gift-class",         title: "Gift Card — Class with Claudia",    subtitle: "Entry to one of Claudia's intuitive classes.",      img: "/images/merch/hands-lkcva.jpg",             href: GIFT_CARD_URL, cta: "Gift Now", external: true },
-  { slug: "gift-birthday",      title: "Gift Card — Birthday Reading",      subtitle: "A personalized forecast for the year ahead.",       img: "/images/merch/orange-ef14y.jpg",            href: GIFT_CARD_URL, cta: "Gift Now", external: true },
-  { slug: "gift-coaching",      title: "Gift Card — Coaching Session",      subtitle: "One à la carte intuitive coaching session.",        img: "/images/merch/short-black-jacket-ewlti.jpg",href: GIFT_CARD_URL, cta: "Gift Now", external: true },
+  { slug: "gift-session",       title: "Gift Card — Session with Claudia",  subtitle: "One session of your giftee's choice.",              img: "/images/merch/gift-session-with-claudia.jpeg", href: GIFT_CARD_URL, cta: "Gift Now", external: true },
+  { slug: "gift-class",         title: "Gift Card — Class with Claudia",    subtitle: "Entry to one of Claudia's intuitive classes.",      img: "/images/merch/gift-class-with-claudia.jpeg",   href: GIFT_CARD_URL, cta: "Gift Now", external: true },
+  { slug: "gift-birthday",      title: "Gift Card — Birthday Reading",      subtitle: "A personalized forecast for the year ahead.",       img: "/images/merch/gift-birthday-reading.jpeg",     href: GIFT_CARD_URL, cta: "Gift Now", external: true },
+  { slug: "gift-coaching",      title: "Gift Card — Coaching Session",      subtitle: "One à la carte intuitive coaching session.",        img: "/images/merch/gift-coaching-session.jpeg",     href: GIFT_CARD_URL, cta: "Gift Now", external: true },
 ];
 
 // Claudia picks favourites later; these are sensible defaults.
