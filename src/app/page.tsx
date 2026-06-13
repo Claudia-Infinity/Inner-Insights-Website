@@ -26,7 +26,7 @@ const RIBBON_ALACARTE: Ribbon = { label: "À la carte",className: "bg-plum-soft 
 
 const SPIRITUAL: Service[] = [
   { slug: "card-reading",   title: "Card Reading",      img: "/images/services/claudia/service-tarot-card-reading-session.jpg",       blurb: "One-on-one sitting for the questions on your heart.",     href: "https://innerinsights.simplybook.me/v2/#book/category/1/count/1/" },
-  { slug: "energy-healing", title: "Energy Healing",    img: "/images/services/claudia/service-energy-healing-session.jpg",           blurb: "Release what no longer serves in body, mind, and spirit.", href: "https://innerinsights.simplybook.me/v2/#book/service/8" },
+  { slug: "energy-healing", title: "Energy Healing",    img: "/images/services/claudia/service-energy-healing-session.jpg",           blurb: "Release what no longer serves in body, mind, and spirit.", href: "https://innerinsights.simplybook.me/v2/#book/category/2/count/1/" },
   { slug: "smudge",         title: "Smudge Ceremony",   img: "/images/services/claudia/service-spiritual-smudge-stick-ceremony.jpg",  blurb: "Cleanse your space and your spirit with ceremony.",        href: "https://innerinsights.simplybook.me/v2/#book/service/7" },
 ];
 
