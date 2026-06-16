@@ -13,7 +13,7 @@ const FAQS: FAQ[] = [
     cta: { label: "Download the Booking App", href: "https://innerinsights.simplybook.me/v2/app" },
     guides: [
       { label: "Inner Insights Client Booking App Guide (PDF)",          href: "https://drive.google.com/file/d/1nA0NbB5JQb--Wns2f-A3paPWL2eUheek/view?usp=drive_link" },
-      { label: "The Imperfect Coach Client Booking App Guide (PDF)",     href: "https://drive.google.com/file/d/1lm3_5WIZNeG2VQeodfX-6MGMym-dEbB0/view?usp=drive_link" },
+      { label: "The Imperfect Coach Client Booking App (PDF)",           href: "/downloads/imperfect-coach-client-booking-app.pdf" },
       { label: "The Imperfect Coach Mentorship Booking App Guide (PDF)", href: "https://drive.google.com/file/d/1VejB5hBOJcIwm4RApvjTzmQgRcWvZuW3/view?usp=drive_link" },
     ],
   },
