@@ -54,6 +54,14 @@ export default function PostReactions({ slug, viewsSeed, variant = "inline", tra
     const next = !hearted;
     setHearted(next);
     try { localStorage.setItem(HEART_KEY(slug), next ? "1" : "0"); } catch {}
+    // Add 1 to the view count when someone hearts the post
+    if (next) {
+      setViews(prev => {
+        const updated = prev + 1;
+        try { localStorage.setItem(COUNT_KEY(slug), String(updated)); } catch {}
+        return updated;
+      });
+    }
   }
 
   const large = variant === "panel";

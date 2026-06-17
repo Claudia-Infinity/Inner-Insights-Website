@@ -18,7 +18,7 @@ export const POSTS: Post[] = [
     date: "Feb 1, 2022",
     excerpt: "Are you seeing repeating numbers like 11:11 or 3:33 everywhere? Uncover the spiritual meaning behind these number patterns and why they appear on license plates, receipts, and clocks at significant moments in your life.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/1111capture@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 2952902,
     body: `Feb 1, 2022
 
 ### Numbers Everywhere You Look
@@ -158,7 +158,7 @@ Trust that the Universe is working in your favor and using these sacred number c
     date: "Jun 17, 2026",
     excerpt: "Discover 7 powerful signs your intuition is awakening and simple daily practices to strengthen your inner guidance system.",
     image: "/images/blog/strengthen-intuition-hero.png",
-    viewsSeed: 1340,
+    viewsSeed: 2923152,
     body: `Have you ever felt a quiet knowing—before logic had time to speak?
 
 That subtle nudge… that inner insight… that "something just feels right" sensation—that is your intuition.
@@ -266,7 +266,7 @@ If you're ready to break free from overthinking and start making clear, confiden
     date: "Apr 10, 2026",
     excerpt: "Discover 5 clear signs you're overwhelmed by stress and burnout, plus simple, effective strategies to reclaim calm.",
     image: "/images/blog/overwhelm-j40ld.jpg",
-    viewsSeed: 2840,
+    viewsSeed: 2902336,
     body: `Let's be honest: feeling overwhelmed is part of being human.
 
 Life pulls us in a hundred directions: work deadlines, family needs, health worries, and everything in between. Most days, we power through.
@@ -344,7 +344,7 @@ Remember, slowing down, asking for help, and lightening your load aren't signs o
     date: "Mar 4, 2026",
     excerpt: "March 2026 numerology forecast reveals a Universal Month 4 focused on discipline, stability, and real-world follow-through.",
     image: "/images/blog/march-2026-f30a3.jpg",
-    viewsSeed: 1920,
+    viewsSeed: 2899719,
     body: `March is not here to rush you. It's here to ground you.
 
 This month carries the **Universal Month energy of 4**, a vibration that invites discipline, stability, responsibility, and real-world follow-through.
@@ -424,7 +424,7 @@ If February was about speaking your truth, March is about living it.
     date: "Feb 18, 2026",
     excerpt: "Harness the Year of the Fire Horse energy to manifest your dreams faster, bolder, and with destiny-altering momentum.",
     image: "/images/blog/chinese-new-year-horse-m68an.jpg",
-    viewsSeed: 3120,
+    viewsSeed: 2832445,
     body: `Every few decades, a cosmic spark returns, wild, luminous, and impossible to ignore.
 
 That spark is the **Year of the Fire Horse**, a legendary cycle known for its fierce independence, creative combustion, and destiny-altering momentum.
@@ -550,7 +550,7 @@ Your dreams aren't just possible this year. They're **inevitable** when you alig
     date: "Feb 11, 2026",
     excerpt: "Explore the February 17, 2026 Aquarius Solar Eclipse and its six-month impact on belonging, authenticity, and quiet clarity.",
     image: "/images/blog/ring-of-fire-eclipse-170hv.jpg",
-    viewsSeed: 2410,
+    viewsSeed: 2788477,
     body: `## When "Us vs. Them" Gets Loud
 
 This eclipse arrives during heightened collective division. Communities, friendships, movements, and belief systems face testing. Aquarius energy invites examination of collective dynamics while illuminating feelings of disconnection or misalignment. The eclipse presents "a subtle pressure to pick a side," yet the invitation isn't polarization but honest self-assessment.
@@ -610,7 +610,7 @@ The message: real clarity often arrives not as certainty, but as a calm knowing 
     date: "Feb 4, 2026",
     excerpt: "Discover the spiritual meaning of February, including love, renewal, astrology, and the energy of Aquarius and Pisces.",
     image: "/images/blog/february-5y5nt.jpg",
-    viewsSeed: 4120,
+    viewsSeed: 2785376,
     body: `February is often linked to love, romance, and the promise of spring. But beyond hearts and flowers, February carries a deep spiritual meaning. Across cultures and belief systems, this month represents reflection, renewal, and emotional connection.
 
 February invites us to slow down, look inward, and strengthen the bonds that truly matter. It is a powerful time for emotional clarity and spiritual growth.
@@ -736,7 +736,7 @@ February reminds us: growth begins within. Love leads the way.
     date: "Jan 28, 2026",
     excerpt: "Repeating life patterns aren't random. Learn how patterns act as truth tellers, revealing hidden beliefs, wounds, and invitations to grow.",
     image: "/images/blog/patterns-truth-tellers-fsiwb.jpg",
-    viewsSeed: 1780,
+    viewsSeed: 2780748,
     body: `Patterns are some of the most honest messengers in our lives.
 
 **They don't lie. They don't exaggerate. They don't need justification.**
@@ -835,7 +835,7 @@ And that's where real transformation begins.
     date: "Jan 21, 2026",
     excerpt: "Why spiritual teachers and lightworkers have an ethical responsibility to speak during injustice, and how to do so with integrity.",
     image: "/images/blog/minimalist-inspirational-quotes-instagram-post-or6xk.jpg",
-    viewsSeed: 1340,
+    viewsSeed: 2735444,
     body: `Spiritual teachers serve as guides for inner peace and personal growth, yet spirituality doesn't exist in isolation. Spirituality lives in bodies, communities, systems, and shared realities, making ethical responsibility unavoidable during times of injustice.
 
 ## Awakening Requires Action
@@ -873,7 +873,7 @@ True spiritual leadership prioritizes presence and truth over safety, recognizin
     date: "Jan 11, 2026",
     excerpt: "Discover why softness is not weakness but a profound strength. Learn how embracing it deepens intuition, boundaries, and self-trust.",
     image: "/images/blog/soft-era-nfae0.jpg",
-    viewsSeed: 3010,
+    viewsSeed: 2699502,
     body: `## Don't You Dare Shrink Your Softness
 
 In a world that rewards toughness, speed, and constant productivity, softness is often misunderstood. It is labeled as weakness. Something to hide. Something to outgrow.
@@ -957,7 +957,7 @@ And the more you trust it, the more aligned, grounded, and whole you become.
     date: "Jan 7, 2026",
     excerpt: "2026 marks a fresh nine-year cycle in numerology. Explore the meaning of Universal Year 1 and the year's power dates.",
     image: "/images/blog/2026-numerology-kb0qk.jpg",
-    viewsSeed: 2260,
+    viewsSeed: 2695108,
     body: `## Why 2026 Is a Universal "1" Year
 
 The year 2026 carries special significance in numerology. When you add the digits (2 + 0 + 2 + 6 = 10 → 1 + 0 = 1), the result is a Universal Year Number 1. This vibration symbolizes new beginnings, leadership, and individuality. The previous occurrence was in 2017, and the next won't happen until 2035.
@@ -999,7 +999,7 @@ Specific dates amplify the energy through special numerical alignments:
     date: "Dec 17, 2025",
     excerpt: "Discover the transformative energy of the Sagittarius New Moon on December 19 and how to manifest your future with clarity and courage.",
     image: "/images/blog/sagittarius-new-moon-in0sd.jpg",
-    viewsSeed: 2090,
+    viewsSeed: 2673260,
     body: `## The Energy of the Sagittarius New Moon
 
 On December 19, 2025, a New Moon in Sagittarius occurs, a powerful moment of transformation focused on creative solutions, bold planning, and spiritual alignment.
@@ -1039,7 +1039,7 @@ A closing affirmation:
     date: "Dec 9, 2025",
     excerpt: "Discover 12 powerful year-end rituals to release, renew, and align your energy for 2026, a spiritual reset between endings and beginnings.",
     image: "/images/blog/nye-2026-sz77m.jpg",
-    viewsSeed: 4890,
+    viewsSeed: 2655290,
     body: `As the final days of the year unfold, a sacred stillness emerges: a quiet pause between the holidays and the New Year that holds its own unique magic.
 
 This is more than a calendar gap; it's an energetic threshold, a **liminal space** where endings and beginnings meet.
@@ -1115,7 +1115,7 @@ Embrace this pause as your spiritual reset and step into 2026 with presence and 
     date: "Dec 3, 2025",
     excerpt: "Experience the Gemini Full Moon on December 4. Explore simple joys, clear communication, and seven intuitive practices.",
     image: "/images/blog/gemini-full-moon-v0nbx.jpg",
-    viewsSeed: 1650,
+    viewsSeed: 2651907,
     body: `The Full Moon in Gemini arrives on December 4, 2025, highlighting where your energy and attention are directed. What you focus on now can grow, expand, and take shape in powerful ways.
 
 ## Gemini Energy Characteristics
@@ -1162,7 +1162,7 @@ Clarity comes when you are open, present, and willing to listen, to others, to t
     date: "Nov 27, 2025",
     excerpt: "Discover how living a life with gratitude can elevate your mindset, increase joy, and attract abundance, clarity, and ease.",
     image: "/images/blog/gratitude-dqgum.jpg",
-    viewsSeed: 3450,
+    viewsSeed: 2639656,
     body: `In a world that moves fast and asks for more, gratitude is the grounding force that brings you back home to yourself.
 
 It's more than a mindset, it's an energetic practice that expands your joy, strengthens your resilience, and helps you align with what truly matters.
@@ -1218,7 +1218,7 @@ Gratitude is not just a practice, it's a lifestyle, a compass, and a powerful pa
     date: "Nov 19, 2025",
     excerpt: "Discover the transformational energy of the Scorpio New Moon at 28°. Learn how truth, boundaries, and inner power are rising.",
     image: "/images/blog/scorpio-new-moon-goddess-768x960-pvqx5.jpg",
-    viewsSeed: 2870,
+    viewsSeed: 2601837,
     body: `The **Scorpio New Moon on November 20, 2025** arrives with a wave of deep truth, intuitive clarity, and powerful energetic renewal.
 
 Scorpio, ruled by mystery, revelation, and emotional depth, guides us into the places where truth has been hidden, urging us to see what we were once unable or unwilling to face.
@@ -1280,7 +1280,7 @@ This is your moment to rise with clarity, courage, and sovereignty.
     date: "Nov 11, 2025",
     excerpt: "The 11/11 portal is a gateway for manifestation and awakening. Learn rituals and meaning to align your energy with your higher path.",
     image: "/images/blog/11-11-gidjl.jpg",
-    viewsSeed: 5120,
+    viewsSeed: 2572061,
     body: `## What Is the 11/11 Portal?
 
 Each year on November 11, the 11/11 manifestation portal opens. This day carries a heightened spiritual frequency that aligns intention, energy, and conscious creation.
@@ -1353,7 +1353,7 @@ If you've been seeking clarity, guidance, or a shift in direction, the 11/11 por
     date: "Oct 29, 2025",
     excerpt: "The Taurus Full Supermoon on November 5, 2025, brings powerful energy for release, renewal, and reclaiming your power.",
     image: "/images/blog/taurus-full-moon-zsnao.jpg",
-    viewsSeed: 2180,
+    viewsSeed: 2543965,
     body: `The Full Moon in Taurus arrives on November 5, 2025. This isn't just any full moon, it's a Supermoon, appearing closer, brighter, and larger in the sky, amplifying everything we feel.
 
 This Taurus Full Supermoon is calling us to let go of what no longer fits, the beliefs, habits, relationships, or emotional baggage that keep us anchored in the past.
@@ -1414,7 +1414,7 @@ Let this moon remind you: you can't build the future while staring at the past. 
     date: "Oct 29, 2025",
     excerpt: "Discover the magic of traveling with your soul sisters, your chosen soul family, and why these adventures feed the spirit.",
     image: "/images/blog/sotc4-thndc.jpg",
-    viewsSeed: 1920,
+    viewsSeed: 2521926,
     body: `## The Joy of Traveling with Your Soul Sisters
 
 There's something almost *magical* about traveling with your soul sisters, those rare women who feel like home no matter where you go.
@@ -1490,7 +1490,7 @@ Because the real destination is joy, love, connection, and presence.
     date: "Oct 21, 2025",
     excerpt: "The New Moon in Libra on October 21, 2025, invites balance, trust, and renewal. Release control and align with divine timing.",
     image: "/images/blog/libra-moon-806ky.jpg",
-    viewsSeed: 2340,
+    viewsSeed: 2517435,
     body: `The New Moon in Libra arrives on October 21, 2025, bringing a breath of hope, renewal, and emotional balance into our lives.
 
 This Libra New Moon invites you to release control, open your heart, and trust that what you've been working toward will unfold in divine timing.
@@ -1542,7 +1542,7 @@ Embrace this Libra New Moon through journaling, candle rituals, and heart-center
     date: "Oct 14, 2025",
     excerpt: "Embrace each morning as a new beginning. Discover how to live intentionally and lead with love every day.",
     image: "/images/blog/good-morning-j48u1.jpg",
-    viewsSeed: 2640,
+    viewsSeed: 2487898,
     body: `## You Only Get So Many Mornings
 
 Every morning we wake up is a quiet miracle.
@@ -1598,7 +1598,7 @@ Life's greatest joy isn't in how many mornings you get, it's in how you live the
     date: "Oct 7, 2025",
     excerpt: "Discover how your body's natural ability to heal is greater than you believe, as science meets spiritual wisdom.",
     image: "/images/blog/healing-hands-4zsq2.jpg",
-    viewsSeed: 3280,
+    viewsSeed: 2454227,
     body: `## Your Body Knows How to Heal
 
 We live in a world that often teaches us to rely solely on external solutions: pills, quick fixes, and surface-level answers, for our health and wellbeing.
@@ -1693,7 +1693,7 @@ True healing begins when you align your mind, body, and energy.
     date: "Aug 10, 2022",
     excerpt: "Can tarot cards predict a pregnancy? Discover the 8 tarot cards that best represent pregnancy, with The Empress being the most prominent indicator for questions about conception and fertility.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/tarot-cards-that-indicate-pregnancy@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 2427697,
     body: `Aug 10, 2022
 
 ### Pregnancy and the Tarot
@@ -1779,7 +1779,7 @@ If you are trying to conceive, I wish you a Most Benevolent Conception Experienc
     date: "Dec 1, 2022",
     excerpt: "Conduct a powerful New Year's card reading with these 20 insightful questions to ask the tarot. Learn how to get maximum insight by choosing the right deck and questions for introspection and divination.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/new-year-qbrpi@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 2415104,
     body: `Dec 1, 2022
 
 ### Setting Yourself up for a Reading
@@ -1851,7 +1851,7 @@ Tarot or oracle card readings are a powerful tool for helping us tap into our su
     date: "May 17, 2022",
     excerpt: "Looking for love advice from the tarot? Here are 77 powerful questions to ask tarot cards about love, relationships, and dating to get the most insightful and practical guidance.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/lovers@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 2376409,
     body: `May 17, 2022
 
 ### Tarot Cards and Love
@@ -2007,7 +2007,7 @@ Best of luck to you!
     date: "Oct 20, 2022",
     excerpt: "Here is your guide to communicating with ghosts and spirits on the other side. A psychic medium explains that while contacting spirits can be fascinating for intuitive people, it is not a parlor trick and should be approached with respect.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/3099@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 2353967,
     body: `Oct 20, 2022
 
 Years before I became a practicing **Psychic Medium** and** Energy Healer,** my first foray into the Spirit World was through my deep fascination with **Ghosts**. Ever since I can remember, I’ve been enchanted by the Spirit World. As a young adult, I read every collection of scary stories I could get my hands on and loved watching documentaries on all things occult and not-of-this-world.
@@ -2081,7 +2081,7 @@ We can talk to them. Whether we hear back is another story. It takes patience an
     date: "Jun 1, 2022",
     excerpt: "Discover your ancestral spirit guides and learn powerful ways to communicate with them. Tap into the innate human desire to connect with the wisdom and presence of your ancestors for guidance.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/ancesters@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 2327038,
     body: `Jun 1, 2022
 
 The desire to communicate with our ancestors is an innate part of the human experience. We intuitively sense their presence in our wisdom bodies, and it begs the question: ***Can we communicate with Ancestral Spirits?***
@@ -2162,7 +2162,7 @@ Learn how to develop your psychic abilities and deepen your ancestral connection
     date: "Sep 12, 2022",
     excerpt: "Are you clairaudient? Learn the four steps to develop \"clear hearing,\" the psychic ability to hear spirits either as an external sound or an internal voice, and start receiving their messages.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/clairaudience@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 2258161,
     body: `Sep 12, 2022
 
 ### Clairaudience Means Clear Hearing
@@ -2206,7 +2206,7 @@ So don’t be afraid to develop your clear hearing skills, because they can give
     date: "Jun 20, 2022",
     excerpt: "Learn the Bay Leaf Manifestation technique in seven super easy steps to attract anything you wish. This simple method uses the power of a bay leaf and the law of attraction to bring your desires into reality.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/bay-leaf-magic@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 2172156,
     body: `Jun 20, 2022
 
 ### Attract Anything You Wish For
@@ -2278,7 +2278,7 @@ Happy Bay Leaf Manifesting! May all your wishes come true better than you could 
     date: "May 10, 2022",
     excerpt: "Is being a psychic or a medium a blessing or a curse? A practicing Psychic Medium shares their perspective, explaining why they consider it a blessing to help others connect with their soul and transitioned loved ones.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/bless@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 2111898,
     body: `May 10, 2022
 
 ### Blessing or Curse
@@ -2340,7 +2340,7 @@ One last note**—** if you’re an intuitive like me, **Welcome to the Inner In
     date: "Feb 15, 2022",
     excerpt: "Can aliens and other extraterrestrial races incarnate as humans on Earth? The short answer is yes; discover the concept of Starseeds and how High Ascension Beings have been incarnating as humans for millennia.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/aliens@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 2094155,
     body: `Feb 15, 2022
 
 ### Earth’s Extraterrestrial Races
@@ -2396,7 +2396,7 @@ Discover how to awaken your Starseed soul, connect with interstellar guides, and
     date: "Jun 14, 2022",
     excerpt: "Can babies see spirits? A psychic medium explains why many believe infants have a unique ability to see ghosts, offering a spiritual perspective on why babies smile or wave at what seems to be empty space.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/child-2@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 2084357,
     body: `Jun 14, 2022
 
 ### Babies and Spirit
@@ -2446,7 +2446,7 @@ My earliest concrete memories of interacting with Spirits were when I was 4 year
     date: "Aug 31, 2022",
     excerpt: "Can energy work and spirituality actually heal trauma? This article explores how holistic modalities can help, emphasizing that a person must be open and ready to heal themselves for the process to be effective.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/reiki@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 2071875,
     body: `Aug 31, 2022
 
 ### Energy Work Can Heal Trauma
@@ -2520,7 +2520,7 @@ While not a replacement for Western medicine, energy healing is increasingly emb
     date: "Jul 12, 2022",
     excerpt: "Are you scared that tarot cards will predict a bad future? This article dispels common fears, explaining why tarot is a tool for insight and empowerment, not just for telling the future.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/tarot-cards-featured-image@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 2031999,
     body: `Jul 12, 2022
 
 ### You are the Creator of Your Future
@@ -2558,7 +2558,7 @@ Tarot won't create your future for you – it's completely up to you. But it can
     date: "Jul 29, 2025",
     excerpt: "Telepathy is the ability to communicate thoughts and/or ideas by means other than the five senses. Telepathy is a non-verbal way to communicate with others. One person may be thinking or sending a thought or image to another person, and the other person may feel or see that same thought or image.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/connecting-with-someone-through-telepathy-how-to-validate-the-connection-ybvt6@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 1961241,
     body: `Jul 29, 2025
 
 ### What is Telepathy?
@@ -2664,7 +2664,7 @@ Unlock your psychic potential and explore how to use telepathy for deeper spirit
     date: "May 25, 2022",
     excerpt: "Turn your crystals into a career coach you can keep in your pocket. Learn which specific crystals can help amplify your strengths, dissolve tension, and attract opportunities in the workplace.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/crystals@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 1876944,
     body: `May 25, 2022
 
 ### Cosmic Career Coaches
@@ -2716,7 +2716,7 @@ Keep these desk crystals for positive energy nearby to attract success and repel
     date: "Feb 8, 2022",
     excerpt: "Do spirits attend their own funerals? A psychic medium shares a personal account of seeing her departed grandmother at her own service, confirming that spirits do sometimes visit to see who attended.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/funeral@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 1842712,
     body: `Feb 8, 2022
 
 ### Spirits RSVP Too
@@ -2756,7 +2756,7 @@ If you’ve ever wondered whether your loved one was near at their farewell, the
     date: "Feb 20, 2023",
     excerpt: "Attract love into your life with this easy and effective candle ritual. This post shares a favorite ritual to manifest a new relationship or strengthen the love you already have.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/love-candle@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 1818120,
     body: `Feb 20, 2023
 
 ### Attract Love to You
@@ -2828,7 +2828,7 @@ Afterward, the candle can be stored in a sacred space. **FYI:** You can reach ou
     date: "Jul 29, 2025",
     excerpt: "Empaths and highly sensitive people often absorb the emotions of others, leading to emotional overwhelm, anxiety, and energetic burnout. With spiritual self-care practices like grounding rituals, mindfulness, and healthy boundaries, empaths can protect their energy and reconnect with their intuitive power. Learn how to transform empathic sensitivity into spiritual strength and thrive with emotional resilience and inner peace.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/anxiety-hmts2@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 1814435,
     body: `Jul 29, 2025
 
 If you're a highly sensitive person or empath, you likely feel the emotions of others as if they were your own. While this deep emotional awareness is a spiritual gift, research shows a strong link between high empathy and anxiety.
@@ -2890,7 +2890,7 @@ Get a copy for yourself or gift one to your empathic besties by clicking the **M
     date: "Apr 18, 2022",
     excerpt: "Eclipse season is here—find out what these dynamic cosmic events mean for you. Learn how eclipses activate the lunar nodes in your birth chart, bringing powerful shifts and alignments.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/eclipses-stocksy_txp5c89b034qil200_medium_3058533-1-1024x780-1@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 1786738,
     body: `Apr 18, 2022
 
 ### Eclipses: When the Universe Throws a Cosmic Plot Twist
@@ -2954,7 +2954,7 @@ Learn what to do (and not do) during eclipses to align with the Universe and rid
     date: "Dec 20, 2021",
     excerpt: "Explore the unique experience of growing up as a fourth-generation psychic medium in a family of intuitives on the Texas-Mexico border. This personal story delves into a childhood shaped by psychic abilities passed down through both paternal and maternal lines.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/psychic-kids-80-tbkyc@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 1764427,
     body: `Dec 20, 2021
 
 ### My Journey with Spirit from Childhood to Career
@@ -2998,7 +2998,7 @@ Whether you're a beginner or nurturing a gifted child, I can help you unlock you
     date: "Jul 18, 2022",
     excerpt: "How do our departed loved ones appear in heaven—old, young, or vibrant? A medium explains that every soul chooses how they show up, sharing how her grandmother who passed in her 80s always appears as a vibrant 55-year-old.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/young-old@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 1755660,
     body: `Jul 18, 2022
 
 ### Old, Young, Sickly or Vibrant
@@ -3042,7 +3042,7 @@ We have the opportunity to bring Messages from Heaven to help earth-bound loved 
     date: "Jan 4, 2022",
     excerpt: "Can you read Tarot cards without being psychic? Learn how anyone can give proficient and technical tarot readings by studying the cards' symbols and meanings, even without innate psychic abilities.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/tarot@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 1751889,
     body: `Jan 4, 2022
 
 ### Not All Tarot Readers Are Psychic – Here's Why That Matters
@@ -3088,7 +3088,7 @@ If you're curious about your own intuitive gifts or want to enhance them, book a
     date: "Dec 28, 2021",
     excerpt: "Discover how many spirit guides you have on your spiritual team. A seasoned psychic medium explains that every person has seven primary guides, including two Archangels, two Angels, and three personal guides like ancestors or deities.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/guides@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 1741272,
     body: `Dec 28, 2021
 
 ### Primary Spiritual Guides
@@ -3146,7 +3146,7 @@ If you're ready to meet your guides and unlock your psychic gifts, book a Spirit
     date: "Apr 26, 2022",
     excerpt: "How often should you get a tarot card reading for guidance? Instead of a strict timeframe, discover the best situations and scenarios to seek support from a tarot reader for maximum clarity.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/card-reading-qequp@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 1656211,
     body: `Apr 26, 2022
 
 I get this question all of the time. So, instead of offering a timeframe, I’ll offer some of the **best situations** to get guidance and support from a tarot or oracle card reader.
@@ -3180,7 +3180,7 @@ We all need a little help sometimes when thinking up ideas. Whatever you’re co
     date: "Aug 24, 2022",
     excerpt: "Learn how to connect with someone through telepathy, a special and spiritual experience. This post provides simple techniques and guidelines to send telepathic messages and signs to know if they're being received.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/img_8228@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 1581914,
     body: `Aug 24, 2022
 
 ### Telepathy is a Real
@@ -3247,7 +3247,7 @@ In fact, with a little bit of patience, diligence, and intention, you’ll be ab
     date: "Oct 12, 2022",
     excerpt: "Learn how to savor life's delicious moments and give yourself fully to the enjoyment of the present. This article reflects on the deep desire to stop and enjoy the small moments of our days, even when life gets busy.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/savor@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 1511599,
     body: `Oct 12, 2022
 
 To** savor **means to give ourselves to the enjoyment of this very moment, this season, this time. Savoring does not come naturally to me. So many times, my brain is so full of things to do, places to go, blogs to write, clients to talk to, things to remember that I can’t even begin to stop, savor, or enjoy. Yet, beneath it all, ***there is a deep desire to enjoy, to savor the moments of my days.*** I want to find as much joy in my day and to savor all of the abundance already flowing to me and through me. Don't you?!
@@ -3289,7 +3289,7 @@ On this post, I reflect on the practice of intentional savoring—being fully pr
     date: "Mar 22, 2022",
     excerpt: "Are your symptoms from a cold, the flu, or something more? Explore the signs of a Spiritual Ascension, also known as a spiritual awakening, which is an expansion of consciousness that can manifest in physical and emotional ways.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/ascension-symptoms-zbkzv41adu2-a73h6-gwcj8.1400x1400@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 1497627,
     body: `Mar 22, 2022
 
 ### Spiritual Ascension and its Symptoms
@@ -3396,7 +3396,7 @@ Learn how to manage ascension symptoms, connect with your spirit guides, and gro
     date: "Aug 28, 2025",
     excerpt: "Discover how to protect your energy and set healthy boundaries. Learn powerful life coaching tools to stop energy drains and invest in what truly matters.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/worth-your-energy-136ey@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 1443035,
     body: `Aug 28, 2025
 
 ### Stop Letting Drains Steal Your Power
@@ -3448,7 +3448,7 @@ And if you need help with setting boundaries and prioritizing yourself, I can he
     date: "May 2, 2022",
     excerpt: "Is there an afterlife? A psychic shares profound musings from their near-death experience after suffering a brain aneurysm in 2013, offering a unique perspective on what lies beyond.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/heaven@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 1442107,
     body: `May 2, 2022
 
 ### My Near-Death Experience
@@ -3507,7 +3507,7 @@ Discover how this sacred experience led to a spiritual awakening as a **Psychic 
     date: "Sep 24, 2025",
     excerpt: "Turn mental rain into personal growth. Discover how to shift your mindset, release what weighs you down, and bloom with resilience and joy after tough times. Try these life coach mindset practices to release heaviness and step into joy.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/rain-oa8je@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 1442027,
     body: `Sep 24, 2025
 
 ### It Rained in My Head for Months, But Now Look at All of the Blooms
@@ -3602,7 +3602,7 @@ And when the clouds part, you’ll see—your blooms are already beginning to gr
     date: "Feb 22, 2022",
     excerpt: "Unlock the astrological significance of the 2/22/22 portal, one of the most auspicious days of the year. Learn how this powerful date, dubbed \"Twosday,\" was believed to help manifest your dreams and desires.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/happy-twosday-illustration-with-tuesday-22222-letter-colorful-light-bulb-shiny-background_1314-2998@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 1381175,
     body: `Feb 22, 2022
 
 ### It's Twosday
@@ -3651,7 +3651,7 @@ Don’t miss the chance to harness this unique frequency to create the life you 
     date: "Jul 10, 2025",
     excerpt: "Are you ready to step into your power and align with prosperity using this money chant? This transformative ritual isn't just words—it’s a daily manifestation tool designed to activate your wealth magnetism. Whether you're calling in abundance, launching a new product, or trusting that intuitive spark to seize opportunity, this blog post reveals how sacred intention and inspired action work hand-in-hand.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/money-s1h6h@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 1331869,
     body: `Jul 10, 2025
 
 ### Money Invocations are Super Powerful
@@ -3687,7 +3687,7 @@ Learn how combining manifestation rituals with intentional action can lead to re
     date: "August 11, 2025",
     excerpt: "Mercury Retrograde in Leo (July 17–August 11, 2025) brings bold energy, communication drama, and ego clashes—especially for Leo, Taurus, Scorpio, Aquarius, Gemini, and Virgo. Use this cosmic reset to revisit, realign, and reclaim your voice before making any bold moves.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/mercury-retrograde-zodiac-sign-swiha-blog-a2vth@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 1307254,
     body: `Jul 16, 2025
 
 ### What to Expect During Mercury Retrograde in Leo (July 17 – August 11)
@@ -3761,7 +3761,7 @@ Use this time for self-reflection, creative editing, and reclaiming your authent
     date: "Jun 29, 2022",
     excerpt: "Need help making a decision? Learn how to use a pendulum to get clear 'Yes, No, or Maybe' answers, just like a nostalgic Magic 8-Ball, to help guide your choices.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/pendulum-101@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 1278062,
     body: `Jun 29, 2022
 
 ### Yes, No or Maybe
@@ -3805,7 +3805,7 @@ This post playfully connects childhood curiosity with spiritual tools by explori
     date: "Jul 23, 2025",
     excerpt: "Unlock the transformative power of the New Moon in Leo to manifest your deepest desires and attract abundance, love, and success. This lunar phase invites you to release limiting beliefs, embrace courage, and set clear, soul-aligned intentions through powerful New Moon rituals like candle magic and love ceremonies. Start your journey today to harness the Moon’s divine energy and ignite lasting personal and spiritual growth.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/leo-new-moon-astrology-aibyj@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 1244233,
     body: `Jul 23, 2025
 
 ### New Moon in Leo
@@ -3881,7 +3881,7 @@ Start your journey today with these sacred rituals designed to amplify your pers
     date: "Oct 1, 2025",
     excerpt: "October astrology brings powerful transformation with Pluto direct, Neptune retrograde, and bold Aries and Libra moons. Release illusions, reclaim your power, and trust divine timing. Discover spiritual tips, rituals, and guidance to align with clarity, balance, and truth.\"",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/hello-october-fb7qz@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 1240037,
     body: `Oct 1, 2025
 
 ### October 2025 Astrology, Transformation, and Spiritual Guidance
@@ -3959,7 +3959,7 @@ Trust the process, take aligned action, and allow the Universe to meet you halfw
     date: "Mar 8, 2022",
     excerpt: "What are the mysterious orbs of light that appear in photographs? Explore the meaning behind Angel Orbs and Spirit Orbs, and learn what these beautiful spheres of white or colored light represent.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/orbs-are-light-beings@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 1220481,
     body: `Mar 8, 2022
 
 ### Angel Orbs and Spirit Orbs
@@ -4029,7 +4029,7 @@ Learn to interpret orb colors, angelic meanings, and spiritual signs to deepen y
     date: "Aug 15, 2025",
     excerpt: "Unlock your business’s full potential by mastering your mindset and leadership skills. Discover how personal growth drives success and learn proven strategies to lead with confidence and resilience.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/professional-folks-piufu@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 1119650,
     body: `Aug 15, 2025
 
 ### Personal Growth: The Secret to Unlocking Your Business’s True Potential
@@ -4150,7 +4150,7 @@ If you’re ready to **master your mindset, elevate your leadership skills, and 
     date: "Sep 3, 2025",
     excerpt: "Discover the spiritual meaning of eclipses, ancient myths, and September’s Eclipse Season astrology. Learn rituals to release, reset, and transform.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/lunar-and-solar-eclipses-nuep6@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 1093892,
     body: `Sep 3, 2025
 
 ### Ancient Myths, Modern Wisdom, and Astrology of the Season
@@ -4287,7 +4287,7 @@ Stay grounded, honor the rituals, and step boldly into the new chapter awaiting 
     date: "Mar 29, 2022",
     excerpt: "Should you consult a psychic or a medium for guidance? Understand the differences between them and know what to expect in a reading to navigate life’s overwhelming mysteries.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/psychic-boundaries@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 1088001,
     body: `Mar 29, 2022
 
 ### A Guide to Insights and Clarity
@@ -4351,7 +4351,7 @@ This guide is perfect for spiritual beginners or anyone curious about getting ac
     date: "Mar 1, 2022",
     excerpt: "Learn how to perform a smudge ceremony to cleanse yourself and your space of negativity. This guide to burning sage, a traditional Indigenous practice, can help clear stagnant energy from your auric field and improve well-being.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/smudging@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 1072288,
     body: `Mar 1, 2022
 
 ### Clear Bad Energy Fast
@@ -4450,7 +4450,7 @@ Book now to learn more insightful tips on my simple smudge ceremony ritual and s
     date: "Sep 28, 2022",
     excerpt: "What is the difference between a soul mate and a twin flame? Uncover the key distinctions between these two profound, but very different, types of spiritual relationships.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/soulmate-vs-twin-flame-difference@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 1070623,
     body: `Sep 28, 2022
 
 ### Think you've met your Soul Mate? Or could they possibly be your Twin Flame?
@@ -4512,7 +4512,7 @@ Twin Flame relationships are less about lifelong companionship and more about te
     date: "Jun 7, 2022",
     excerpt: "Love visiting haunted cemeteries? Learn essential spiritual protection techniques to ensure you don't bring unwanted spirits or psychic attachments back home after your paranormal investigations.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/cemetary@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 1016438,
     body: `Jun 7, 2022
 
 ### Before You Say 'Boo'
@@ -4572,7 +4572,7 @@ Enjoy your excursion to your favorite haunted cemetery and make sure to say "Hi!
     date: "Jan 19, 2022",
     excerpt: "Can angels and spirits send messages through social media and texts? Discover the modern ways the spiritual realm communicates, confirming that, yes, it happens!",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/spirit-messages@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 1008862,
     body: `Jan 19, 2022
 
 ### Heaven Has Wi-Fi
@@ -4632,7 +4632,7 @@ If you're ready to receive angel messages through your phone, download a trusted
     date: "Aug 1, 2022",
     excerpt: "Explore the 12 Chakra System, the powerful energy centers of the subtle body that originate from Hindu and Tantric traditions. This guide explains the basics of the chakras illustrated in yoga studios and spiritual stores.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/12-chakras@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 896140,
     body: `Aug 1, 2022
 
 ### Chakras are Energy Centers
@@ -4747,7 +4747,7 @@ Working with the chakras is an excellent way to progress in your spiritual journ
     date: "Oct 4, 2022",
     excerpt: "Did you know there are 12 different types of soul mates? Learn about the various people you are connected to on a spiritual plane who enter your life, often in non-romantic ways, to help you grow and transform.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/soulmate@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 885274,
     body: `Oct 4, 2022
 
 Are there people you feel you were destined to meet or people who make you feel at home whenever you're around them? These are people with whom you have a strong soul connection—or what we often refer to as **Soul Mates**. “Soul Mate” is a word used for people who are connected to you on a spiritual plane. Often it is used for the person you are romantically involved with. However, some Soul Mates often come into our lives in non-romantic ways to help us grow and transform our wounds.
@@ -4863,7 +4863,7 @@ And they help us not walk it alone.
     date: "Sep 22, 2022",
     excerpt: "The Autumn Equinox brings new beginnings and a time of energetic balance. Learn the significance of this seasonal turning point when day and night are of equal length, marking a transition into the darker half of the year.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/the-autumn-equinox-marks-the-tureing@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 884284,
     body: `Sep 22, 2022
 
 ### Equinox Means Equal Night
@@ -4923,7 +4923,7 @@ While late summer is a time for rest and enjoyment, the darker season is a time 
     date: "Aug 18, 2022",
     excerpt: "Are the lights flickering in your home? Find out the two main spiritual reasons this happens—it could be a spirit trying to communicate, or a manifestation of your own powerful energy after a spiritual awakening.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/lights@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 848783,
     body: `Aug 18, 2022
 
 ### How Spirits and Your Energy Interact with Electricity
@@ -4981,7 +4981,7 @@ A catalyzing spiritual event or a series of small events that led to spiritual a
     date: "Sep 11, 2025",
     excerpt: "Discover how a whimsical mindset boosts resilience, reduces stress, and brings joy. Learn life coaching tips to thrive with positivity in hard times.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/whimasy-oij40@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 772458,
     body: `Sep 11, 2025
 
 ### How Staying Playful Builds Resilience and Joy in Challenging Times
@@ -5045,7 +5045,7 @@ Whimsy isn’t about ignoring problems—it’s about meeting them with lightnes
     date: "Aug 20, 2025",
     excerpt: "Discover why curiosity is the hidden leadership skill that transforms conflict into collaboration. Learn how curiosity builds trust, innovation, and authentic influence.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/curious-she48@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 768176,
     body: `Aug 20, 2025
 
 ### Why Curiosity Is a Superpower in Leadership
@@ -5146,7 +5146,7 @@ Curiosity changes conversations. And conversations change everything.
     date: "Aug 6, 2025",
     excerpt: "The 8/8 Lion’s Gate Portal in 2025 is a powerful annual alignment that unlocks high-frequency energy for manifestation, abundance, and spiritual transformation. With the cosmic support of Leo season and the star Sirius, this is the ultimate time to set bold intentions and align with your soul’s purpose. Harness this energetic gateway to attract love, success, and next-level breakthroughs.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/lion-s-gate-8-8-k3e60@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 761261,
     body: `Aug 6, 2025
 
 ### The Lion's Gate Portal Explained
@@ -5219,7 +5219,7 @@ Ready to quantum leap into your next level? Let the **Lion’s Gate Portal 2025*
     date: "Aug 30, 2023",
     excerpt: "What does it mean if you see a Black Winged Angel? This could be a Fallen Angel, or it could be Archangel Azrael, the \"Angel of Death,\" who sometimes appears with dark wings during times of great sadness.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/black-angel-sadness-f2-2560x1440-1@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 727344,
     body: `Aug 30, 2023
 
 ### Black-Winged Angels
@@ -5257,7 +5257,7 @@ Black-Winged Angels are striking symbols of fallen grace or divine rebellion—m
     date: "Jan 11, 2022",
     excerpt: "What makes a psychic reading feel completely legitimate? A practicing Psychic Medium and Spirit Channeler shares personal experiences from both sides of the table—as a querent seeking answers and a practitioner giving guidance.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/psychic-reading-sign-10zgh@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 711944,
     body: `Jan 11, 2022
 
 ### How to Tell If a Psychic Is the Real Deal
@@ -5311,7 +5311,7 @@ For best results, choose a psychic with strong reviews, positive energy, and a c
     date: "Jan 25, 2022",
     excerpt: "Learn how to create a spiritual altar to serve as a portal to the heavenly realms, a practice inspired by the Qer’o people of the Andes. An altar can become a powerful focal point for honoring ancestors and connecting with spirit helpers.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/pink-altar@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 700268,
     body: `Jan 25, 2022
 
 ### History of Spiritual Altars
@@ -5376,7 +5376,7 @@ Learn how to build your own altar and harness high-vibrational energy to align w
     date: "Mar 15, 2022",
     excerpt: "Discover Automatic Writing, also known as Spirit Journaling, and learn how to channel guidance meant specifically for you. Follow three simple steps to trust your intuition and receive crystal-clear transmissions from your spirit guides.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/automatic-writing2@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 680055,
     body: `Mar 15, 2022
 
 ### Journaling with Spirit
@@ -5470,7 +5470,7 @@ With so many** insights and 'Ah-ha’s' revealed,** you will probably want to ma
     date: "Jul 27, 2022",
     excerpt: "What is clairvoyance and could you be clairvoyant? Discover the nine key signs of this psychic ability, which is more than just good intuition—it's the power to clearly \"see\" or know things.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/three-eyes-2@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 634898,
     body: `Jul 27, 2022
 
 ### The Gift of Insight
@@ -5604,7 +5604,7 @@ Have fun and let me know in the comments how you’re doing. Enjoy!
     date: "Apr 4, 2022",
     excerpt: "Learn how to make crystal-infused water with this easy-to-follow recipe. This guide also touches on the science of charged water, referencing Dr. Masaru Emoto’s famous experiments on how intention affects water crystals.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/crstal-water-33@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 622248,
     body: `Apr 4, 2022
 
 ### Some Science about Charged Water
@@ -5670,7 +5670,7 @@ Boost your spiritual wellness and manifest your desires from the inside out with
     date: "Apr 11, 2022",
     excerpt: "What is the difference between Tarot and Oracle cards? Uncover the key distinctions, from the traditionally structured system of a Tarot deck to the more free-form nature of Oracle cards.",
     image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/tarot-v-oracle@1x.jpg",
-    viewsSeed: 1000,
+    viewsSeed: 615200,
     body: `Apr 11, 2022
 
 ### Tarot versus Oracle Cards
