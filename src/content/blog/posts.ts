@@ -13,6 +13,146 @@ export type Post = {
 
 export const POSTS: Post[] = [
   {
+    slug: "are-certain-numbers-following-you-like-1111-333-or-1234-what-does-this-mean",
+    title: "Are Certain Numbers Following You? Like 11:11, 3:33 or 12:34? What Does this Mean?",
+    date: "Feb 1, 2022",
+    excerpt: "Are you seeing repeating numbers like 11:11 or 3:33 everywhere? Uncover the spiritual meaning behind these number patterns and why they appear on license plates, receipts, and clocks at significant moments in your life.",
+    image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/1111capture@1x.jpg",
+    viewsSeed: 1000,
+    body: `Feb 1, 2022
+
+### Numbers Everywhere You Look
+
+Do the same numbers or number patterns seem to appear wherever you go, on receipts, phone numbers, license plates, addresses, billboards, lottery tickets, or account numbers? These could be repeating numbers (1010, 12:12 or 888), ascending or descending numbers (123 or 7654) or perhaps numbers which carry a stronger significance (your birthdate or 911, for example).
+
+Even before the highly digitized world we live in today, numbers were found everywhere, in science, astronomy, music, art and mathematics. Much like Leonardo Da Vinci's Vitruvian Man, numbers form the foundation of everything found in nature. But what does it mean when you spot recurring number codes, patterns, and synchronicities? Well, one thing is certain… they are not random, and they are no coincidence.
+
+It may previously have been easy to regard these numbers as soul-less carriers of quantity. But numbers are anything but this. They are exquisite keepers of some of the purest forms of energy in the Universe, of archetypal wisdom and ancient-earth knowledge that needs to be re-heard and remembered in this modern world we inhabit today.
+
+### Angel Numbers
+
+If certain numbers are repeatedly showing up in your life, it’s time to sit up, and take note. Repeating numbers and number patterns are often spoken of as **Angel Numbers**. Whether or not you connect with Angels or the idea of angelic presence, the messages conveyed in certain number combinations are the same. The high vibratory information they contain is meant for you, whomever you believe is the messenger!
+
+### Meanings Behind Angel Numbers
+
+This is a quick guide, revealing what some of the Angel Numbers and most common Angel Number combinations mean, in a Universal sense. The primary source material comes from **Numerologist’s “Angel Number Messages Handbook.”**
+
+**0:** The zero represents both the void and wholeness. If you keep seeing the zero, it is a sign that you need to stop and create space in your life. New things maybe trying to manifest around you, but you need to embrace the void, for them to appear. In combination, the zero also magnifies the number which precedes it.
+
+**1:** You are at the very center of your Universe, so believe in yourself and have confidence in your abilities. This could be an ideal moment to start a new project or initiate a new venture. Ensure the seeds you plant for the future are based on a truly inspired idea.
+
+**2:** Listen deeply to your intuition and try not to be swayed by what other people expect of you. Take time for self-reflection and dig deep but be gentle with yourself. Appreciate your inner wisdom and in turn, allow yourself to be appreciated by others. This number also indicates the potential for romance, partnerships, and love.
+
+**3:** Is there something inside of you that needs to be expressed? It could be an authentic emotion, a creative pursuit, a business venture, or a simple physical movement that is just aching to be released into the world. Do it! This is also a reminder to socialize, laugh and play with the gift of life a little more than you are currently allowing yourself to!
+
+**4:** You need to ground yourself and focus on building the foundations of your life. Give some time and attention to your physical spaces – your home and workplace, as well as your finances, investments and your physical body. This is a reminder not to overlook the very tangible, earth-bound aspects of life.
+
+**5:** Change is in the air! Either you need to break up your routine to allow it to enter into your life, or changes are happening to you and it’s beyond your control. Share your stories or promote yourself in the media. Trust that you are divinely supported and directed, even though life may feel like a whirlwind of activity.
+
+**6: **Make sure you are balancing your physical needs with your spiritual and emotional well-being. Take care of yourself, step into the mothering role of your own needs. You may feel you have too many responsibilities, particularly related to family but do not neglect your own self-care. Listen to or play music and bring more beauty into your life. Harmony will be restored.
+
+**7:** Make time to reflect and meditate more. Take a retreat from the outside world and go within. Take however long you can manage, which may be just 5 minutes, one hour or a day or more. Perhaps it is time to relocate? Try to stay focused on uncovering the next step on your soul’s path, without being swayed by the ego.
+
+**8:** It’s time to be bold! Push those edges a little and expand what you believe you are capable of. You may be in the midst of something which feels like a test or a challenge but trust that you are being prepared for greater things. This is a great time for you to discover a prosperous path and make a real mark in the world.
+
+**9:** Have compassion for yourself. You may be feeling lost or even rejected, so find ways to love yourself fully. This number brings the end of a cycle, so let go of thoughts, feelings, people and circumstances that aren’t serving you. It’s important to make space for what’s new. You have so much to share with the world.
+
+**11:** Your intuition is amplified right now. You are being inspired with creative ideas and insight so shine your light and you’ll inspire others to do the same. Share your vision through teaching, speaking or writing and let yourself be led by Spirit. You have an opportunity to make a huge impact on the world right now!
+
+**22:** It’s time to take your inspired ideas and ground them in physical form. There could be a product you want to craft, a business you need to create or a skill you want to teach. Or perhaps it’s a home you desire, a garden to plant or an environmental change you need to make. Whatever is the most ideal way to build structure and form for your creative drive, which can be shared with others, make a plan and do it!
+
+**33:** Your voice and vision can elevate others in the most profound ways. Listen to your heart and share your unique gifts with others. You will have a positive impact on others, but your expression must be heartfelt and authentically yours, so let go of any self-doubt or self-consciousness. You have much to share, express and teach, so lead by example and you make it safe for others to do the same.
+
+**44:** Think big! You have an opportunity to affect the lives of others in such a positive way right now. You must plan well, lay down a proper foundation and keep the big picture in focus. Delegation of tasks will make your impact bigger and prevent exhaustion. Stay strong and true to your vision. You can do it!
+
+**55:** You need to shake up your life and make some big changes. Try implementing a new routine, starting a new project, or pursuing a different path. Ensure that your core needs and desires are placed firmly at the center of any changes that you make but step out of your comfort zone. Take risks. Spirit is supporting you with every step you take.
+
+**66:** It is imperative to exercise self-love right now. You are such a beautiful human! You may have been putting other people’s needs in front of your own and whilst service is an act of the divine, you cannot give from an empty cup. Treat yourself with the care and respect you deserve. Expressing yourself and your feelings creatively through poetry, art, craft and dance could be especially restorative for you right now.
+
+**77:** This is a wake-up call to look inward and ask yourself what you really want. Is your life moving in alignment with your spiritual purpose? Are the choices you make daily serving your highest good? Believe in yourself.
+
+**88:** Are you taking on a lot of responsibility right now? Ensure it’s not more than you can handle. Many opportunities are coming your way to create money and impact if you stay in alignment with your soul’s purpose, so push through the challenges you face on the way. Stay focused on your vision and truth and your abundance will be shared by all those whose lives you touch.
+
+**99:** This number brings endings. You may feel loss or separation but letting go is necessary to make room for something greater and more rewarding. So, release the past, especially any regrets, resentments or fear you are still holding onto, knowing you are heading for greater things. It is time to give thanks for your past lessons and invite in the new.
+
+**111:** It’s likely you have an influx of inspiration and new ideas; now is the time to put them into action! Try not to overthink things or question the “hows” and the “whys”. This is a time of radical trust: in yourself and in the divine forces which are guiding you. This number pattern is also a sign of powerful universal alignment – you’re now able to create whatever you desire, very quickly. Don’t be swayed by the ego - make sure your focus remains on the highest good of all.
+
+**222:** Love is the ruling force right now! Work compassionately with those around you and your home life, partnerships and any projects you’re working on will blossom. Practice self-trust: believe in your intuition and your creative power, and you’ll become a catalyst for incredible change in the world, but ensure you create with beauty and care, rather than force. Collaborating with others may be a powerful way forward for you but be careful not to give away your power – retain balance and harmony in your partnerships.
+
+**333:** You are in the midst of a divinely creative flow right now. Follow where the imagination leads, don’t worry about trying to understand where it is all taking you. The art you create will inspire and encourage others to make this world a better place, so great changes are possible if you stay true and commit to expressing your authentic voice. You are capable of having a positive impact on masses of people.
+
+**444:** Your dreams, ideas and visions are manifesting into reality. You are doing the important work right now, of building the strong, sturdy foundations for the visions and dreams that will become the reality of future generations. Work hard, be considered and know that your efforts are being supported by Angels. It is necessary to ground yourself – do not underestimate the power of being present in your body, on the physical plane of the earth. You are doing vital work in the here and now.
+
+**555:** Hold onto your hat because change is happening faster than you can keep up with! If you’ve been clinging to your routine and to what’s comfortable and familiar to you for too long, the time has come for a major shake-up. The Universe has a plan for you, and it’s not what you’re currently up to! Embrace the adventure by making time for some travel, new experiences, socializing, and risk-taking! Release your resistance to change, and you’ll discover true freedom.
+
+**666:** This number makes a lot of people uncomfortable; due to the highly charged associations it’s gained throughout history. But it’s important to remember that numbers are neither good nor bad – their energy is pure. This number pattern appears to remind you of your divine nature. Pay attention to nourishing your physical, emotional and mental bodies, so that you might express more of the divine feminine principle through your presence here on Earth. Be wary of making choices out of a fear or poverty mentality and working too hard as a result. Relax, surrender to the flow of life and you will be taken care of.
+
+**777:** There is much learning going on beneath the surface of reality. With or without your conscious participation, you are currently evolving into a more progressed version of yourself. You are aligning with your true purpose so trust the work that you are doing! It is time to go out into the world and create heaven on earth: express your insights and intuitions outwardly, and they will take root. This can also be a sign that you need to release an outmoded way of being. In order to embrace the new, you, let go of what stands in your way.
+
+**888: **You’ve really been challenged and put to the test recently, but none of this is accidental. You may have had big gains as well as big losses, so this is a reminder that what goes up also comes down. Embrace the undulating flow of life, and the role you have to play in this dance. Continue your participation. You are riding a cycle of infinite change and abundance, so believe in yourself and keep the big picture in your mind. Beware of taking on more than you can handle. You are amazingly strong, but you are also (only) human!
+
+**999: **You have reached the end of a long karmic cycle and a chapter in your life. You may be needing to let go of things and people more quickly than you are comfortable with, but trust that all is in order. Ensure you are not procrastinating and clinging unnecessarily to that which no longer serves you. You have learned valuable lessons, but the time has come for you to move on and share your experiences with others. You’re being encouraged to live as a shining example to others and move forward into new realms with grace and compassion for others at different points along their paths.
+
+**1111:** This is the number of instant manifestations! You are in clear alignment with Universal energies, so focus only on the thoughts and feelings that you wish to take with you into your future. With manifestation mastery comes great responsibility, so ensure you have the highest good of all set firmly in your intentions. When you see this number, you are being divinely supported. It’s a beautiful and powerful omen.
+
+**2222:** This number symbolizes the coming together of both divine masculine and divine feminine principles. You have the potential to manifest incredible harmony in your life right now, you are right on track, so continue along this path. Trust your intuition deeply. Nurture your spiritual gifts because they will serve you, and others whose lives you touch. When you see this number, you are being divinely supported. It’s a beautiful and powerful omen!
+
+**3333:** This is a potent reminder of the playful and creative forces that run through the Universe, and through you and your life. Nurture the childlike spirit of wonder you hold inside, and trust where it takes you. Be present in every moment, because Spirit has chosen to move through you, inspiring others and igniting the possibility of a better world for us all! Trust your visionary sight because you are in alignment. When you see this number, you are being divinely supported. It’s a beautiful and powerful omen.
+
+**4444:** This is a powerful sign of encouragement and support. You have been tasked with building the structure of the new world: the grounded reality that future generations will come to rely upon. Don’t underestimate the importance of the practical, material work you are doing. Human evolution means very little if it is not grounded into the ordinary, everyday realms of existence, and these are the realms where you must focus your attention. You’re being reminded of the sanctity of the Earth plane, and of your place within it. When you see this number, you are being divinely supported. It’s a beautiful and powerful omen.
+
+**5555:** Embrace change. Your reality is rapidly re-shaping itself around you in this moment, so don’t resist. This is a potent and sure sign that it is safe to trust what’s coming next in your life, but you must let go of what’s keeping you stuck where you are. Release what is keeping you small, so that you can expand into freedom. When you see this number, you are being divinely supported. It’s a beautiful and powerful omen.
+
+**6666:** This number carries the frequency of the divine mother principle. You are being strongly encouraged to express your own maternal instincts toward yourself and those around you. Nurture, care and parent yourself with great love, and you will make it possible to birth anything into the world. There is no greater force in the Universe than love, so embody it as fully as you can, and you will be showered with the abundance of our great Earth Mother. When you see this number, you are being divinely supported. It’s a beautiful and powerful omen.
+
+**7777:** This is a deeply mystical number, representing both beginnings and endings. You have reached a place of incredible learning and wisdom, and it is time to integrate this into your body – this number marks the meeting point of the earth and spiritual planes. Recognize yourself as an infinite wisdom keeper and trust your divine nature. When you see this number, you are being divinely supported. It’s a beautiful and powerful omen.
+
+**8888:** An incredible sign of power and abundance, this is also a reminder of the responsibility that follows. This is a sign that the challenges you face are really initiations into a higher path. You are capable of overcoming anything and everything that the Universe places in your way, so this is an invitation to step further into your power. Stay in alignment with your truth. Keep your core values at the heart of what you do, and you will become a true leader of the way. When you see this number, you are being divinely supported. It’s a beautiful and powerful omen.
+
+**9999:** You have reached a place of culmination. Your path is nearing the close of a grand cycle so recognize that some parts of your life you’ve grown used to may be coming to an end. See these numbers as a powerful reassurance that with endings come new beginnings. Try not to resist what’s coming. These numbers can also be a reminder of the importance of integration. In order for the knowledge gained during this phase of your life to be of real benefit to the collective, it must become part of your living work. Your experiences have the power to heal and evolve the lives of many. When you see this number, you are being divinely supported. It’s a beautiful and powerful omen.
+
+**123 &amp; Ascending Angel Numbers 123** and other ascending number sequences (345 or 789 for example) are clear signs of simplicity and progression. You are moving forward on your life path, so continue taking one firm step at a time. They may also be a sign that you are overcomplicating things, creating unnecessary drama or taking the long route when there’s a direct alternative, so receive them as a reminder to pare back and simplify. You could benefit from delegating, releasing and streamlining some parts of your life. If you see other ascending Angel Number sequences, it’s wise to consider the individual energy contained by each number (referring to the sections above).
+
+For example: 345 would imply that your most ideal next step and starting point for a new phase of life is with the energy of the 3. So, try a creative, imaginative or playful task. This would lead you through the energy of the 4, and it’s stabilizing, grounding impulse, to the 5, which is ultimate freedom and adventure. Take special note of your thoughts and feelings directly before seeing ascending Angel Number sequences, as these can be the signposts directing your best next move.
+
+**321 &amp; Descending Angel Numbers** If you see 321 and other descending Angel Number sequences (543 or 987 for example) you’re receiving a clear message that you need to go within and re-orient yourself with your truth. Get to know yourself: your strengths, passions and what makes you truly happy. These numbers are a potent wake-up call that you are slipping out of personal alignment, and a reminder that you have a divine purpose you are not quite fulfilling. It’s important to see these number sequences as powerful signs of love and support from Spirit. If you see other descending Angel Number sequences, it’s also wise to consider the individual energy contained by each number (referring to the sections above).
+
+For example: 987 would imply that you are living in the energy of the 9 and attempting to find closure and move on from a situation before you have completed the learning it has to offer. So, you need to move back into the energy of the 8, which may hold come challenges for you (but also great gifts) before arriving at the energy of the 7, which is where the wisdom you seek will be found. Take special note of your thoughts and feelings directly before seeing descending number sequences, as these can be the signposts, directing your best next move
+
+**911:** This number is being seen with increasing frequency for many people across the world, particularly since the World Trade Centre Attack in 2001. It is also the emergency phone number to call for those in the US, so for many people globally, it holds the heavy weight of danger, emergency and fear. But it is also a call to action. Combining the compassionate, humanitarian and transitional qualities of the 9; and the spiritual mastery and healing of the master number 11, seeing 911 repeatedly in your life is a powerful invitation to embody both of these potent forces. You are needed in this moment to be of service: To heal, protect and transform the Earth – you are her emergency service and she’s calling you up!
+
+**Your Birth Date (and Other Lucky Numbers):** Frequently seeing your birth date mirrored back at you is a strong sign of affirmation. It is one of the clearest signs that your Angels, personal guides and spiritual allies are close, protecting and directing you. You should regard these as hugely positive signs! You have nothing to worry about and you are exactly where you need to be, so enjoy life! The same is true for any lucky numbers you have. These could be the birth date of a loved one, your telephone number as a child or even your house number. If you have imbued a positive personal significance into a set of numbers and the Universe is communicating them to you, it’s a powerful sign of alignment and reassurance.
+
+**Less Common Number Combinations:** You may see less common Angel Number combinations, such as pairs of numbers grouped together (1212 or 2323 for example) or any number of other patterns (322, 875 or 8649 for example). If these numbers keep showing up but don’t immediately mean anything to you, they need to be decoded and there are a couple of different ways to do this.
+
+### Decoding Angel Number Combinations
+
+**1 – Summing and Reducing: **The most common and universally recognized method for decoding number combinations is by summing and reducing. Let’s use the example of 8646. First add the digits together: 8 + 6 + 4 + 6 = 24. Then reduce the sum further: 2 + 4 = 6. The final number reached is 6, so the message of this number combination pertains to the energy of the number 6.
+
+If you keep seeing pairs of numbers, try summing and reducing them as pairs. Let’s use the example of 4949. First add the digits within each pair together: 4 + 9 = 13 The reduce the sum further: 1 + 3 = 4 So the final number reached (for each pair of numbers) is 4, so the message of this number combination pertains to the number 44. In Numerology, master numbers are not reduced, but it may still be useful for you to look at the description for their sum (in this case the number 8) as it may reveal another, additional layer of meaning.
+
+**2 – Consider each Individual Number:** It can also be useful to consider each Angel Number within the combination you keep seeing, and how they relate individually AND in sequence, to your life. Let’s use the same example of 8646. First, consider the number 8. Are you being bold? Are you pushing your edges, and rising to the challenges you face? Next comes the 6. Are you nurturing yourself, your skills and talents? Are you allowing yourself to grow from challenging circumstances? Next comes the 4. This could be a sign that you need to stay grounded or an indication that a more stable and grounded lifestyle is on offer if you can embody more of the energy of the 6, which precedes it.
+
+Last comes the 6 once more, which is a strong indicator of the love, harmony and gentle creativity that is yours to receive, should you choose to follow the signs. Remember to take special note of your thoughts and feelings directly before seeing these number sequences, as these can be the signposts, directing your best next move. It is also important not to get hung up or too precise and analytical when decoding Angel Number combinations. Regardless of the specifics, the overall message is always one of love and support, so receive this above all else! And remember, the Universe does not want to confuse you, so if your number messages feel too complicated then ask for them to be simplified! Angel Numbers and Angel Number codes and combinations are an invitation into dialogue with the Universe … so begin the conversation!
+
+### Final Insights
+
+If you keep seeing the same number patterns—like 111, 444, or 911—it’s likely a sign from your guardian angels, not just coincidence**.**
+
+Angel numbers are divine messages meant to guide, affirm, or redirect you, often appearing during moments of decision, transformation, or spiritual awakening.
+
+While some numbers may indicate challenges ahead, their purpose is never negative—they’re prompts for growth, clarity, and self-awareness.
+
+Trust that the Universe is working in your favor and using these sacred number codes to support your highest good.
+
+### With Love and Light—Claudia
+
+### Are Angels Numbers following your every step and you need to know what it means? I.ve got you friend!
+
+### Book a Development Coaching Session with Claudia by clicking the SERVICES link above this post.`,
+  },
+
+  {
     slug: "how-to-strengthen-your-intuition-7-powerful-signs-your-inner-guidance-is-awakening",
     title: "How to Strengthen Your Intuition: 7 Powerful Signs Your Inner Guidance Is Awakening",
     date: "Jun 17, 2026",
@@ -2014,146 +2154,7 @@ Learn how to develop your psychic abilities and deepen your ancestral connection
 
 ### Book a Development Coaching Session with Claudia by clicking the SERVICES link above this post.`,
   },
-
-  {
-    slug: "are-certain-numbers-following-you-like-1111-333-or-1234-what-does-this-mean",
-    title: "Are Certain Numbers Following You? Like 11:11, 3:33 or 12:34? What Does this Mean?",
-    date: "Feb 1, 2022",
-    excerpt: "Are you seeing repeating numbers like 11:11 or 3:33 everywhere? Uncover the spiritual meaning behind these number patterns and why they appear on license plates, receipts, and clocks at significant moments in your life.",
-    image: "https://jhmcmweqooxgsyczhpgh.supabase.co/storage/v1/object/public/media/images/1111capture@1x.jpg",
-    viewsSeed: 1000,
-    body: `Feb 1, 2022
-
-### Numbers Everywhere You Look
-
-Do the same numbers or number patterns seem to appear wherever you go, on receipts, phone numbers, license plates, addresses, billboards, lottery tickets, or account numbers? These could be repeating numbers (1010, 12:12 or 888), ascending or descending numbers (123 or 7654) or perhaps numbers which carry a stronger significance (your birthdate or 911, for example).
-
-Even before the highly digitized world we live in today, numbers were found everywhere, in science, astronomy, music, art and mathematics. Much like Leonardo Da Vinci's Vitruvian Man, numbers form the foundation of everything found in nature. But what does it mean when you spot recurring number codes, patterns, and synchronicities? Well, one thing is certain… they are not random, and they are no coincidence.
-
-It may previously have been easy to regard these numbers as soul-less carriers of quantity. But numbers are anything but this. They are exquisite keepers of some of the purest forms of energy in the Universe, of archetypal wisdom and ancient-earth knowledge that needs to be re-heard and remembered in this modern world we inhabit today.
-
-### Angel Numbers
-
-If certain numbers are repeatedly showing up in your life, it’s time to sit up, and take note. Repeating numbers and number patterns are often spoken of as **Angel Numbers**. Whether or not you connect with Angels or the idea of angelic presence, the messages conveyed in certain number combinations are the same. The high vibratory information they contain is meant for you, whomever you believe is the messenger!
-
-### Meanings Behind Angel Numbers
-
-This is a quick guide, revealing what some of the Angel Numbers and most common Angel Number combinations mean, in a Universal sense. The primary source material comes from **Numerologist’s “Angel Number Messages Handbook.”**
-
-**0:** The zero represents both the void and wholeness. If you keep seeing the zero, it is a sign that you need to stop and create space in your life. New things maybe trying to manifest around you, but you need to embrace the void, for them to appear. In combination, the zero also magnifies the number which precedes it.
-
-**1:** You are at the very center of your Universe, so believe in yourself and have confidence in your abilities. This could be an ideal moment to start a new project or initiate a new venture. Ensure the seeds you plant for the future are based on a truly inspired idea.
-
-**2:** Listen deeply to your intuition and try not to be swayed by what other people expect of you. Take time for self-reflection and dig deep but be gentle with yourself. Appreciate your inner wisdom and in turn, allow yourself to be appreciated by others. This number also indicates the potential for romance, partnerships, and love.
-
-**3:** Is there something inside of you that needs to be expressed? It could be an authentic emotion, a creative pursuit, a business venture, or a simple physical movement that is just aching to be released into the world. Do it! This is also a reminder to socialize, laugh and play with the gift of life a little more than you are currently allowing yourself to!
-
-**4:** You need to ground yourself and focus on building the foundations of your life. Give some time and attention to your physical spaces – your home and workplace, as well as your finances, investments and your physical body. This is a reminder not to overlook the very tangible, earth-bound aspects of life.
-
-**5:** Change is in the air! Either you need to break up your routine to allow it to enter into your life, or changes are happening to you and it’s beyond your control. Share your stories or promote yourself in the media. Trust that you are divinely supported and directed, even though life may feel like a whirlwind of activity.
-
-**6: **Make sure you are balancing your physical needs with your spiritual and emotional well-being. Take care of yourself, step into the mothering role of your own needs. You may feel you have too many responsibilities, particularly related to family but do not neglect your own self-care. Listen to or play music and bring more beauty into your life. Harmony will be restored.
-
-**7:** Make time to reflect and meditate more. Take a retreat from the outside world and go within. Take however long you can manage, which may be just 5 minutes, one hour or a day or more. Perhaps it is time to relocate? Try to stay focused on uncovering the next step on your soul’s path, without being swayed by the ego.
-
-**8:** It’s time to be bold! Push those edges a little and expand what you believe you are capable of. You may be in the midst of something which feels like a test or a challenge but trust that you are being prepared for greater things. This is a great time for you to discover a prosperous path and make a real mark in the world.
-
-**9:** Have compassion for yourself. You may be feeling lost or even rejected, so find ways to love yourself fully. This number brings the end of a cycle, so let go of thoughts, feelings, people and circumstances that aren’t serving you. It’s important to make space for what’s new. You have so much to share with the world.
-
-**11:** Your intuition is amplified right now. You are being inspired with creative ideas and insight so shine your light and you’ll inspire others to do the same. Share your vision through teaching, speaking or writing and let yourself be led by Spirit. You have an opportunity to make a huge impact on the world right now!
-
-**22:** It’s time to take your inspired ideas and ground them in physical form. There could be a product you want to craft, a business you need to create or a skill you want to teach. Or perhaps it’s a home you desire, a garden to plant or an environmental change you need to make. Whatever is the most ideal way to build structure and form for your creative drive, which can be shared with others, make a plan and do it!
-
-**33:** Your voice and vision can elevate others in the most profound ways. Listen to your heart and share your unique gifts with others. You will have a positive impact on others, but your expression must be heartfelt and authentically yours, so let go of any self-doubt or self-consciousness. You have much to share, express and teach, so lead by example and you make it safe for others to do the same.
-
-**44:** Think big! You have an opportunity to affect the lives of others in such a positive way right now. You must plan well, lay down a proper foundation and keep the big picture in focus. Delegation of tasks will make your impact bigger and prevent exhaustion. Stay strong and true to your vision. You can do it!
-
-**55:** You need to shake up your life and make some big changes. Try implementing a new routine, starting a new project, or pursuing a different path. Ensure that your core needs and desires are placed firmly at the center of any changes that you make but step out of your comfort zone. Take risks. Spirit is supporting you with every step you take.
-
-**66:** It is imperative to exercise self-love right now. You are such a beautiful human! You may have been putting other people’s needs in front of your own and whilst service is an act of the divine, you cannot give from an empty cup. Treat yourself with the care and respect you deserve. Expressing yourself and your feelings creatively through poetry, art, craft and dance could be especially restorative for you right now.
-
-**77:** This is a wake-up call to look inward and ask yourself what you really want. Is your life moving in alignment with your spiritual purpose? Are the choices you make daily serving your highest good? Believe in yourself.
-
-**88:** Are you taking on a lot of responsibility right now? Ensure it’s not more than you can handle. Many opportunities are coming your way to create money and impact if you stay in alignment with your soul’s purpose, so push through the challenges you face on the way. Stay focused on your vision and truth and your abundance will be shared by all those whose lives you touch.
-
-**99:** This number brings endings. You may feel loss or separation but letting go is necessary to make room for something greater and more rewarding. So, release the past, especially any regrets, resentments or fear you are still holding onto, knowing you are heading for greater things. It is time to give thanks for your past lessons and invite in the new.
-
-**111:** It’s likely you have an influx of inspiration and new ideas; now is the time to put them into action! Try not to overthink things or question the “hows” and the “whys”. This is a time of radical trust: in yourself and in the divine forces which are guiding you. This number pattern is also a sign of powerful universal alignment – you’re now able to create whatever you desire, very quickly. Don’t be swayed by the ego - make sure your focus remains on the highest good of all.
-
-**222:** Love is the ruling force right now! Work compassionately with those around you and your home life, partnerships and any projects you’re working on will blossom. Practice self-trust: believe in your intuition and your creative power, and you’ll become a catalyst for incredible change in the world, but ensure you create with beauty and care, rather than force. Collaborating with others may be a powerful way forward for you but be careful not to give away your power – retain balance and harmony in your partnerships.
-
-**333:** You are in the midst of a divinely creative flow right now. Follow where the imagination leads, don’t worry about trying to understand where it is all taking you. The art you create will inspire and encourage others to make this world a better place, so great changes are possible if you stay true and commit to expressing your authentic voice. You are capable of having a positive impact on masses of people.
-
-**444:** Your dreams, ideas and visions are manifesting into reality. You are doing the important work right now, of building the strong, sturdy foundations for the visions and dreams that will become the reality of future generations. Work hard, be considered and know that your efforts are being supported by Angels. It is necessary to ground yourself – do not underestimate the power of being present in your body, on the physical plane of the earth. You are doing vital work in the here and now.
-
-**555:** Hold onto your hat because change is happening faster than you can keep up with! If you’ve been clinging to your routine and to what’s comfortable and familiar to you for too long, the time has come for a major shake-up. The Universe has a plan for you, and it’s not what you’re currently up to! Embrace the adventure by making time for some travel, new experiences, socializing, and risk-taking! Release your resistance to change, and you’ll discover true freedom.
-
-**666:** This number makes a lot of people uncomfortable; due to the highly charged associations it’s gained throughout history. But it’s important to remember that numbers are neither good nor bad – their energy is pure. This number pattern appears to remind you of your divine nature. Pay attention to nourishing your physical, emotional and mental bodies, so that you might express more of the divine feminine principle through your presence here on Earth. Be wary of making choices out of a fear or poverty mentality and working too hard as a result. Relax, surrender to the flow of life and you will be taken care of.
-
-**777:** There is much learning going on beneath the surface of reality. With or without your conscious participation, you are currently evolving into a more progressed version of yourself. You are aligning with your true purpose so trust the work that you are doing! It is time to go out into the world and create heaven on earth: express your insights and intuitions outwardly, and they will take root. This can also be a sign that you need to release an outmoded way of being. In order to embrace the new, you, let go of what stands in your way.
-
-**888: **You’ve really been challenged and put to the test recently, but none of this is accidental. You may have had big gains as well as big losses, so this is a reminder that what goes up also comes down. Embrace the undulating flow of life, and the role you have to play in this dance. Continue your participation. You are riding a cycle of infinite change and abundance, so believe in yourself and keep the big picture in your mind. Beware of taking on more than you can handle. You are amazingly strong, but you are also (only) human!
-
-**999: **You have reached the end of a long karmic cycle and a chapter in your life. You may be needing to let go of things and people more quickly than you are comfortable with, but trust that all is in order. Ensure you are not procrastinating and clinging unnecessarily to that which no longer serves you. You have learned valuable lessons, but the time has come for you to move on and share your experiences with others. You’re being encouraged to live as a shining example to others and move forward into new realms with grace and compassion for others at different points along their paths.
-
-**1111:** This is the number of instant manifestations! You are in clear alignment with Universal energies, so focus only on the thoughts and feelings that you wish to take with you into your future. With manifestation mastery comes great responsibility, so ensure you have the highest good of all set firmly in your intentions. When you see this number, you are being divinely supported. It’s a beautiful and powerful omen.
-
-**2222:** This number symbolizes the coming together of both divine masculine and divine feminine principles. You have the potential to manifest incredible harmony in your life right now, you are right on track, so continue along this path. Trust your intuition deeply. Nurture your spiritual gifts because they will serve you, and others whose lives you touch. When you see this number, you are being divinely supported. It’s a beautiful and powerful omen!
-
-**3333:** This is a potent reminder of the playful and creative forces that run through the Universe, and through you and your life. Nurture the childlike spirit of wonder you hold inside, and trust where it takes you. Be present in every moment, because Spirit has chosen to move through you, inspiring others and igniting the possibility of a better world for us all! Trust your visionary sight because you are in alignment. When you see this number, you are being divinely supported. It’s a beautiful and powerful omen.
-
-**4444:** This is a powerful sign of encouragement and support. You have been tasked with building the structure of the new world: the grounded reality that future generations will come to rely upon. Don’t underestimate the importance of the practical, material work you are doing. Human evolution means very little if it is not grounded into the ordinary, everyday realms of existence, and these are the realms where you must focus your attention. You’re being reminded of the sanctity of the Earth plane, and of your place within it. When you see this number, you are being divinely supported. It’s a beautiful and powerful omen.
-
-**5555:** Embrace change. Your reality is rapidly re-shaping itself around you in this moment, so don’t resist. This is a potent and sure sign that it is safe to trust what’s coming next in your life, but you must let go of what’s keeping you stuck where you are. Release what is keeping you small, so that you can expand into freedom. When you see this number, you are being divinely supported. It’s a beautiful and powerful omen.
-
-**6666:** This number carries the frequency of the divine mother principle. You are being strongly encouraged to express your own maternal instincts toward yourself and those around you. Nurture, care and parent yourself with great love, and you will make it possible to birth anything into the world. There is no greater force in the Universe than love, so embody it as fully as you can, and you will be showered with the abundance of our great Earth Mother. When you see this number, you are being divinely supported. It’s a beautiful and powerful omen.
-
-**7777:** This is a deeply mystical number, representing both beginnings and endings. You have reached a place of incredible learning and wisdom, and it is time to integrate this into your body – this number marks the meeting point of the earth and spiritual planes. Recognize yourself as an infinite wisdom keeper and trust your divine nature. When you see this number, you are being divinely supported. It’s a beautiful and powerful omen.
-
-**8888:** An incredible sign of power and abundance, this is also a reminder of the responsibility that follows. This is a sign that the challenges you face are really initiations into a higher path. You are capable of overcoming anything and everything that the Universe places in your way, so this is an invitation to step further into your power. Stay in alignment with your truth. Keep your core values at the heart of what you do, and you will become a true leader of the way. When you see this number, you are being divinely supported. It’s a beautiful and powerful omen.
-
-**9999:** You have reached a place of culmination. Your path is nearing the close of a grand cycle so recognize that some parts of your life you’ve grown used to may be coming to an end. See these numbers as a powerful reassurance that with endings come new beginnings. Try not to resist what’s coming. These numbers can also be a reminder of the importance of integration. In order for the knowledge gained during this phase of your life to be of real benefit to the collective, it must become part of your living work. Your experiences have the power to heal and evolve the lives of many. When you see this number, you are being divinely supported. It’s a beautiful and powerful omen.
-
-**123 &amp; Ascending Angel Numbers 123** and other ascending number sequences (345 or 789 for example) are clear signs of simplicity and progression. You are moving forward on your life path, so continue taking one firm step at a time. They may also be a sign that you are overcomplicating things, creating unnecessary drama or taking the long route when there’s a direct alternative, so receive them as a reminder to pare back and simplify. You could benefit from delegating, releasing and streamlining some parts of your life. If you see other ascending Angel Number sequences, it’s wise to consider the individual energy contained by each number (referring to the sections above).
-
-For example: 345 would imply that your most ideal next step and starting point for a new phase of life is with the energy of the 3. So, try a creative, imaginative or playful task. This would lead you through the energy of the 4, and it’s stabilizing, grounding impulse, to the 5, which is ultimate freedom and adventure. Take special note of your thoughts and feelings directly before seeing ascending Angel Number sequences, as these can be the signposts directing your best next move.
-
-**321 &amp; Descending Angel Numbers** If you see 321 and other descending Angel Number sequences (543 or 987 for example) you’re receiving a clear message that you need to go within and re-orient yourself with your truth. Get to know yourself: your strengths, passions and what makes you truly happy. These numbers are a potent wake-up call that you are slipping out of personal alignment, and a reminder that you have a divine purpose you are not quite fulfilling. It’s important to see these number sequences as powerful signs of love and support from Spirit. If you see other descending Angel Number sequences, it’s also wise to consider the individual energy contained by each number (referring to the sections above).
-
-For example: 987 would imply that you are living in the energy of the 9 and attempting to find closure and move on from a situation before you have completed the learning it has to offer. So, you need to move back into the energy of the 8, which may hold come challenges for you (but also great gifts) before arriving at the energy of the 7, which is where the wisdom you seek will be found. Take special note of your thoughts and feelings directly before seeing descending number sequences, as these can be the signposts, directing your best next move
-
-**911:** This number is being seen with increasing frequency for many people across the world, particularly since the World Trade Centre Attack in 2001. It is also the emergency phone number to call for those in the US, so for many people globally, it holds the heavy weight of danger, emergency and fear. But it is also a call to action. Combining the compassionate, humanitarian and transitional qualities of the 9; and the spiritual mastery and healing of the master number 11, seeing 911 repeatedly in your life is a powerful invitation to embody both of these potent forces. You are needed in this moment to be of service: To heal, protect and transform the Earth – you are her emergency service and she’s calling you up!
-
-**Your Birth Date (and Other Lucky Numbers):** Frequently seeing your birth date mirrored back at you is a strong sign of affirmation. It is one of the clearest signs that your Angels, personal guides and spiritual allies are close, protecting and directing you. You should regard these as hugely positive signs! You have nothing to worry about and you are exactly where you need to be, so enjoy life! The same is true for any lucky numbers you have. These could be the birth date of a loved one, your telephone number as a child or even your house number. If you have imbued a positive personal significance into a set of numbers and the Universe is communicating them to you, it’s a powerful sign of alignment and reassurance.
-
-**Less Common Number Combinations:** You may see less common Angel Number combinations, such as pairs of numbers grouped together (1212 or 2323 for example) or any number of other patterns (322, 875 or 8649 for example). If these numbers keep showing up but don’t immediately mean anything to you, they need to be decoded and there are a couple of different ways to do this.
-
-### Decoding Angel Number Combinations
-
-**1 – Summing and Reducing: **The most common and universally recognized method for decoding number combinations is by summing and reducing. Let’s use the example of 8646. First add the digits together: 8 + 6 + 4 + 6 = 24. Then reduce the sum further: 2 + 4 = 6. The final number reached is 6, so the message of this number combination pertains to the energy of the number 6.
-
-If you keep seeing pairs of numbers, try summing and reducing them as pairs. Let’s use the example of 4949. First add the digits within each pair together: 4 + 9 = 13 The reduce the sum further: 1 + 3 = 4 So the final number reached (for each pair of numbers) is 4, so the message of this number combination pertains to the number 44. In Numerology, master numbers are not reduced, but it may still be useful for you to look at the description for their sum (in this case the number 8) as it may reveal another, additional layer of meaning.
-
-**2 – Consider each Individual Number:** It can also be useful to consider each Angel Number within the combination you keep seeing, and how they relate individually AND in sequence, to your life. Let’s use the same example of 8646. First, consider the number 8. Are you being bold? Are you pushing your edges, and rising to the challenges you face? Next comes the 6. Are you nurturing yourself, your skills and talents? Are you allowing yourself to grow from challenging circumstances? Next comes the 4. This could be a sign that you need to stay grounded or an indication that a more stable and grounded lifestyle is on offer if you can embody more of the energy of the 6, which precedes it.
-
-Last comes the 6 once more, which is a strong indicator of the love, harmony and gentle creativity that is yours to receive, should you choose to follow the signs. Remember to take special note of your thoughts and feelings directly before seeing these number sequences, as these can be the signposts, directing your best next move. It is also important not to get hung up or too precise and analytical when decoding Angel Number combinations. Regardless of the specifics, the overall message is always one of love and support, so receive this above all else! And remember, the Universe does not want to confuse you, so if your number messages feel too complicated then ask for them to be simplified! Angel Numbers and Angel Number codes and combinations are an invitation into dialogue with the Universe … so begin the conversation!
-
-### Final Insights
-
-If you keep seeing the same number patterns—like 111, 444, or 911—it’s likely a sign from your guardian angels, not just coincidence**.**
-
-Angel numbers are divine messages meant to guide, affirm, or redirect you, often appearing during moments of decision, transformation, or spiritual awakening.
-
-While some numbers may indicate challenges ahead, their purpose is never negative—they’re prompts for growth, clarity, and self-awareness.
-
-Trust that the Universe is working in your favor and using these sacred number codes to support your highest good.
-
-### With Love and Light—Claudia
-
-### Are Angels Numbers following your every step and you need to know what it means? I.ve got you friend!
-
-### Book a Development Coaching Session with Claudia by clicking the SERVICES link above this post.`,
-  },
+
 
   {
     slug: "are-you-clairaudient-4-steps-to-learn-to-hear-spirit",
