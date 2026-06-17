@@ -68,6 +68,7 @@ const BUNDLES: Service[] = [
     img: "/images/services/bundle-card-reading-phone.jpeg",
     blurb: "Three sessions by phone at a discounted rate.",
     href: "https://innerinsights.simplybook.me/v2/#packages/11",
+    objectPosition: "50% 10%",
   },
   {
     slug: "bundle-card-zoom",
@@ -75,6 +76,7 @@ const BUNDLES: Service[] = [
     img: "/images/services/bundle-card-reading-zoom.jpeg",
     blurb: "Three sessions by Zoom at a discounted rate.",
     href: "https://innerinsights.simplybook.me/v2/#packages/12",
+    objectPosition: "50% 30%",
   },
   {
     slug: "bundle-energy-phone",
