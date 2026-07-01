@@ -14,7 +14,8 @@ type Props = {
 
 const HEART_KEY  = (slug: string) => `ii-heart-${slug}`;
 const VIEWED_KEY = (slug: string) => `ii-viewed-${slug}`;
-const COUNT_KEY  = (slug: string) => `ii-count-${slug}`;
+// Stores only the delta this browser has added on top of viewsSeed, so the seed can change freely.
+const DELTA_KEY  = (slug: string) => `ii-delta-${slug}`;
 
 export default function PostReactions({ slug, viewsSeed, variant = "inline", trackView = false }: Props) {
   const [hearted, setHearted] = useState(false);
@@ -26,21 +27,22 @@ export default function PostReactions({ slug, viewsSeed, variant = "inline", tra
       setHearted(localStorage.getItem(HEART_KEY(slug)) === "1");
     } catch {}
 
-    // Local-only view counter. Persists across sessions so the number feels real,
-    // but every browser counts independently. Swap for a server-backed count later.
-    let current = viewsSeed;
+    let delta = 0;
     try {
-      const stored = localStorage.getItem(COUNT_KEY(slug));
-      if (stored) current = Math.max(viewsSeed, Number(stored) || viewsSeed);
+      const stored = localStorage.getItem(DELTA_KEY(slug));
+      if (stored) delta = Number(stored) || 0;
     } catch {}
+
+    let current = viewsSeed + delta;
 
     if (trackView) {
       try {
         const already = sessionStorage.getItem(VIEWED_KEY(slug));
         if (!already) {
-          current += 1;
+          delta += 1;
+          current = viewsSeed + delta;
           sessionStorage.setItem(VIEWED_KEY(slug), "1");
-          localStorage.setItem(COUNT_KEY(slug), String(current));
+          localStorage.setItem(DELTA_KEY(slug), String(delta));
         }
       } catch {}
     }
@@ -54,11 +56,10 @@ export default function PostReactions({ slug, viewsSeed, variant = "inline", tra
     const next = !hearted;
     setHearted(next);
     try { localStorage.setItem(HEART_KEY(slug), next ? "1" : "0"); } catch {}
-    // Add 1 to the view count when someone hearts the post
     if (next) {
       setViews(prev => {
         const updated = prev + 1;
-        try { localStorage.setItem(COUNT_KEY(slug), String(updated)); } catch {}
+        try { localStorage.setItem(DELTA_KEY(slug), String(updated - viewsSeed)); } catch {}
         return updated;
       });
     }
