@@ -15,7 +15,7 @@ export const POSTS: Post[] = [
   {
     slug: "let-them-principles-peace-power-direction",
     title: "3 “Let Them” Principles That Will Transform Your Peace, Power, and Direction",
-    date: "Jul 16, 2026",
+    date: "Jul 15, 2026",
     excerpt: "The more you try to control others, the more disconnected you feel from yourself. Here are three “Let Them” principles — inspired by Mel Robbins — to help you release control and return to your own alignment.",
     image: "/images/blog/let-them-principles-hero.png",
     viewsSeed: 1169777,
