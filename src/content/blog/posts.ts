@@ -13,6 +13,138 @@ export type Post = {
 
 export const POSTS: Post[] = [
   {
+    slug: "is-it-normal-to-feel-unsatisfied",
+    title: "Is It Normal to Feel Unsatisfied with a Good Job That Pays Well? (Yes! Here's What It Means and What to Do)",
+    date: "Aug 5, 2026",
+    excerpt: "You have the job everyone else would love — the salary, the title, the benefits — so why the quiet Sunday dread? Feeling unsatisfied in a good job isn't ingratitude. It's a conversation your soul is trying to have with you. Here's what it means and what to do about it.",
+    image: "/images/blog/is-it-normal-to-feel-unsatisfied-hero.png",
+    viewsSeed: 1287653,
+    body: `You have the job everyone else would love to have.
+
+The salary is generous. The title looks impressive on paper. Your benefits are solid, your colleagues are decent, and by every external measurement you have made it. So why does Sunday evening fill your chest with a quiet dread? Why do you scroll through job boards not because you need a new job, but because something inside you is aching for something you cannot quite name?
+
+Here is what I need you to hear first, before anything else: **you are not ungrateful. You are not dramatic. And you are absolutely not broken.**
+
+What you are feeling — that hollow, restless sensation in the middle of an objectively "good" life — is one of the most quietly common experiences among high-achieving, deeply feeling human beings. Feeling unsatisfied with a good job is not a character flaw. It is a conversation your soul is trying to have with you. And it is time to start listening.
+
+This blog post is for you: the one who feels guilty for wanting more. The one who has built the life that looked right from the outside but feels hollow on the inside. The one quietly wondering, *Is this really it?*
+
+Let's explore what is actually happening, why it matters, and, most importantly, what you can do about it.
+
+## The Golden Handcuffs — When Success Feels Like a Cage
+
+There is a phrase that financial advisors and career coaches use: golden handcuffs. It sounds glamorous, doesn't it? But anyone who has worn them knows the truth — gold or not, a cage is still a cage.
+
+### What Are Golden Handcuffs and Why They're More Common Than You Think
+
+Golden handcuffs refer to the financial perks, benefits, and lifestyle that tether you to a job you would otherwise leave. The high salary that funds your mortgage. The health insurance that covers your family. The 401(k) match, the stock options, the annual bonus that always seems to arrive right when you are on the edge of making a change. These are not small things. They are real, and the fact that you factor them in does not make you weak — it makes you responsible.
+
+But here is what nobody tells you: the more comfortable the cage, the easier it becomes to stop questioning whether you should be in one at all.
+
+Job dissatisfaction despite success is not rare. It is epidemic. And the higher the paycheck climbs, the louder the silence around it becomes — because who wants to admit they are unhappy when they are earning well?
+
+### The Spiritual Dissonance of Living Someone Else's Definition of Success
+
+Here is the deeper layer beneath the golden handcuffs: most of us were handed a definition of success that was never ours to begin with. We were taught — by parents, by culture, by the relentless messaging of a productivity-obsessed world — that security equals salary. That stability equals a job title. That achievement equals arrival.
+
+But your soul did not sign that contract.
+
+Spiritual dissonance happens when the life you are living is fundamentally out of harmony with who you actually are. It is the gap between your external reality and your internal truth.
+
+You can feel it in your body — the Sunday scaries, the numbing with Netflix, the dreams at night that feel more alive than your waking hours. That dissonance is not weakness. It is wisdom. It is your inner compass spinning, trying to point you home.
+
+## Why Your Soul Is Restless (And Why That's a Gift)
+
+I know the restlessness feels uncomfortable. Maybe it even feels ungrateful. But I want to offer you a reframe: **your soul's restlessness is not a problem to solve. It is a signal to honor.** I did it, so can you.
+
+### The Difference Between Comfort and Alignment
+
+Comfort and alignment are not the same thing — and confusing them is one of the most common reasons people stay stuck in a purpose-driven career crisis for years. Comfort is the absence of disruption. Alignment is the presence of meaning. You can be deeply comfortable and profoundly misaligned at the exact same time. In fact, that is precisely the definition of a good job but unfulfilled.
+
+Think of it this way: comfort is a warm blanket. Alignment is sunlight. You can survive under the blanket indefinitely. But you were made to grow, and growth requires light. An aligned career — one that draws on your gifts, reflects your values, and serves something beyond a profit margin — does not just feel better.
+
+Research suggests it changes your biology. Meaning-driven work reduces chronic stress hormones, improves immune function, and is one of the strongest predictors of long-term well-being. Comfort keeps you safe. Alignment makes you come alive.
+
+### Signs Your Soul Is Calling You Toward Something More
+
+Your soul rarely shouts. It whispers, nudges, and when you keep ignoring it, it begins to speak through your body, your moods, and your thoughts.
+
+Here are some of the most common signs that you are experiencing a soul calling vs. career moment:
+
+- You feel a persistent sense of "is this it?" that no promotion or raise has ever fully silenced.
+- You light up talking about something that has nothing to do with your current role.
+- You feel physically and emotionally drained by work that looks perfectly fine on paper.
+- You find yourself jealous not of wealth, but of people who seem to love what they do.
+- You have a recurring idea, dream, or passion that keeps returning no matter how many times you dismiss it.
+- You feel a spiritual awakening at work — a growing sense that there is more you are meant to contribute to the world.
+
+### The Awakening You Didn't Ask For
+
+This is not just a feeling. It is backed by decades of research and centuries of spiritual wisdom — and both are pointing to the same truth.
+
+Sometimes a midlife career change — or even an early one — is not a crisis. It is an awakening. And awakenings, by nature, are disorienting. They arrive uninvited, at inconvenient times, and they ask you to question things you spent years building.
+
+In spiritual traditions across cultures, this experience has a name. The Sufis call it *tawba*, the turning. The mystics called it the dark night of the soul. Modern psychologists call it identity disruption.
+
+Whatever name you give it, the experience is the same: the life you built no longer fits. And instead of that being a catastrophe, it is actually the most honest moment of your adult life.
+
+**You are not falling apart. You are falling into yourself.**
+
+## What Should You Do When You Feel Unfulfilled at Work?
+
+Here is where we move from insight to action — because awareness alone is not transformation. But notice I said aligned action, not reckless action. Your soul does not need you to quit your job tomorrow morning. It needs you to start showing up differently — to yourself, first.
+
+### Step 1: Stop Judging the Feeling
+
+The single most damaging thing you can do when you feel unsatisfied at a good job is tell yourself you shouldn't feel that way. Every time you say, "I should be grateful," you are invalidating a message your soul is sending you. And the soul, like any living thing that is ignored, will get louder.
+
+Start here: give yourself full permission to feel exactly what you feel — without story, without judgment, without a timetable for fixing it. Gratitude and longing can coexist.
+
+You can be thankful for what you have AND know that you are meant for more. Both are true. Both deserve space.
+
+### Step 2: Get Still and Listen
+
+In the noise of a busy career and a full life, your soul's voice gets drowned out. Stillness is how you turn down the volume on the world so you can hear yourself again.
+
+This does not have to mean a meditation retreat (though if you can, go). It means five minutes of journaling before the day starts. A walk without earbuds. A Saturday morning with your journal and a question: *What would I do if I knew I could not fail?*
+
+What comes up in that stillness? Write it down. Do not edit it, do not judge it. Just let it breathe on the page. That rawness is where your answers live.
+
+### Step 3: Work with an Intuitive Life Coach Who Gets It
+
+Here is the truth about navigating a soul calling vs. career crossroads on your own: it is exhausting, it is slow, and it is easy to talk yourself out of your own truth when you are both the client and the counsel.
+
+A life coach who specializes in purpose-driven career work is not a luxury; it is a strategic investment in the life you are meant to live.
+
+Life coaching for career transitions is not about being told what to do. It is about being seen so clearly and held so safely that you can finally hear what you have always known. The right coach does not give you a prefabricated map. They help you see and trust the one that has been inside you all along.
+
+### Step 4: Take Aligned Action (Not Reckless Action)
+
+Aligned action means taking the next right step, not the biggest leap. It means saying "yes" to that volunteer project that excites you. Taking that certification course. Building that sports app.
+
+It means having that honest conversation with yourself about what your non-negotiables really are. Building the bridge while you are still standing on safe ground.
+
+The goal is not to blow up your life. The goal is to start telling the truth about it — one small, intentional, imperfect, soul-guided step at a time.
+
+## Final Insights
+
+If you have read this far, something in these words has touched something real in you. And I want to close by saying this as directly and as lovingly as I know how:
+
+**You are not broken for wanting more than a paycheck.**
+
+**You are not ungrateful for feeling empty in a full life.**
+
+**You are not failing because the path you are on doesn't feel like yours.**
+
+You are a human being with a soul that is larger than any job description. You came here with gifts the world genuinely needs. And the restlessness you feel — that aching, searching, holy dissatisfaction — is not a sign that something is wrong with you. It is a sign that something sacred is waking up within you.
+
+The question is not whether you are meant for more. You are. The question is simply: *Are you ready to find out what that more looks like?*
+
+You do not have to have all the answers today. You just have to be willing to ask the questions. And if you are ready to stop asking alone, I am here.
+
+*With Love and Light, Claudia*`,
+  },
+  {
     slug: "let-them-principles-peace-power-direction",
     title: "3 “Let Them” Principles That Will Transform Your Peace, Power, and Direction",
     date: "Jul 15, 2026",
