@@ -65,7 +65,7 @@ And that feeling is love. Pure, unbounded, joyful love. This is what your loved 
 
 One of the most healing moments in any reading I facilitate is the moment of recognition. Not recognition from me, recognition from the sitter. The gasp. The hand over the mouth. The tears that come from somewhere so deep they surprise even the person crying.
 
-Because the spirit coming through doesn’t offer vague, general comfort. They reference the specific. The private. The thing you thought no one could possibly know. The nickname only they ever called you. The conversation you had in the car three days before they passed. The song you played at the funeral that nobody knew was their favorite except you. The way you’ve been sleeping with their old cardigan because it still smells like them even though you haven’t told anyone that. These afterlife messages from loved ones are not performances. They are evidence. They are Spirit saying: **I see you. I know you. I am still here with you.**
+Because the spirit coming through doesn’t offer vague, general comfort. They reference the specific. The private (4444444). The thing you thought no one could possibly know. The nickname only they ever called you. The conversation you had in the car three days before they passed. The song you played at the funeral that nobody knew was their favorite except you. The way you’ve been sleeping with their old cardigan because it still smells like them even though you haven’t told anyone that. These afterlife messages from loved ones are not performances. They are evidence. They are Spirit saying: **I see you. I know you. I am still here with you.**
 
 Your loved ones on the other side haven’t lost their personality with their body. They still have their humor. I can’t tell you how many sessions involve laughter, inside jokes, and that particular brand of teasing that only a specific family member could pull off. They still have their opinions. They still have their quirks.
 
@@ -1085,6 +1085,159 @@ This is how you quietly change your environment. This is how you become someone 
 Keep showing up with clarity and intention. And trust that love, joy, and connection are sure to follow.
 
 **With Love and Light—Claudia**`,
+  },
+  {
+    slug: "how-to-break-free-from-overthinking",
+    title: "How to Break Free from Overthinking: A Life Coach’s Guide to Clarity, Confidence, and Aligned Decisions",
+    date: "Jun 24, 2026",
+    excerpt: "Overthinking isn’t because you don’t know what to do — it’s because you’ve lost trust in yourself. Here are the signs overthinking is controlling your life, the root cause most people miss, and five steps to move from mental loops into clarity and aligned decisions.",
+    image: "/images/blog/how-to-break-free-from-overthinking-hero.png",
+    viewsSeed: 1236918,
+    body: `## Stop Overthinking—Start Trusting Yourself Again
+
+Have you ever found yourself stuck in your own thoughts… replaying conversations, questioning your decisions, or imagining every possible outcome before taking action?
+
+That mental loop—the constant analyzing, second-guessing, and worrying—is what we call overthinking.
+
+And the truth is: Overthinking isn’t because you don’t know what to do.
+
+It’s because you’ve lost trust in yourself.
+
+In today’s fast-moving world, we’re taught to rely on logic, opinions, and external validation so much that we disconnect from our natural clarity.
+
+But here’s the truth: Your clarity has never left you.
+
+You’ve just been thinking **louder than you’ve been listening.**
+
+## What Is Overthinking (And Why It Keeps You Stuck)
+
+**Overthinking is when your mind tries to create certainty by analyzing everything from every angle.**
+
+But **instead of creating clarity… it creates confusion.**
+
+It sounds like:
+
+- “What if I make the wrong decision?”
+- “What will others think?”
+- “I should wait until I’m 100% sure…”
+
+And suddenly, what should be a simple decision becomes overwhelming.
+
+The deeper truth is this: **Overthinking is often driven by fear, not lack of knowledge.**
+
+When you don’t fully trust yourself, your mind steps in to control the outcome.
+
+But control isn’t clarity.
+
+And analysis isn’t alignment.
+
+## 5 Signs Overthinking Is Controlling Your Life
+
+1. **You Second-Guess Every Decision:** Even small choices feel heavy and uncertain.
+2. **You Replay Conversations in Your Head:** You analyze what you said—and what you should have said.
+3. **You Feel Mentally Exhausted Without Taking Action:** Your energy is drained… but nothing actually moves forward.
+4. **You Avoid Decisions Altogether:** Because making a “wrong choice” feels worse than staying stuck.
+5. **You Rely on Everyone Else’s Opinion:** You trust others more than you trust yourself.
+
+If this feels familiar, you’re not alone. And more importantly—you’re not stuck here.
+
+## Why Overthinking Happens (The Root Cause Most People Miss)
+
+Most people think overthinking is a mindset problem.
+
+It’s not.
+
+It’s a **self-trust problem.**
+
+Somewhere along the way, you learned:
+
+- That your instincts weren’t enough.
+- That you needed more validation.
+- That being “right” mattered more than being aligned.
+
+So, your mind took over.
+
+It tries to protect you. It tries to prevent failure.
+
+But in doing so—**it keeps you disconnected from clarity.**
+
+## How to Break Free from Overthinking (Step-by-Step)
+
+**1. Pause Instead of Reacting.**
+
+Overthinking thrives on urgency.
+
+Clarity comes from stillness.
+
+Before making a decision, take a breath and pause.
+
+This creates space for awareness instead of anxiety.
+
+**2. Shift from “What If” to “What Feels Aligned.”**
+
+**Overthinking asks:** “What if this goes wrong?”
+
+**Clarity asks:** “What feels right for me right now?”
+
+This small shift changes everything.
+
+**3. Limit External Input.**
+
+The more opinions you receive, the more confused you become.
+
+Clarity grows in **quiet—not noise.**
+
+Trust yourself before asking others.
+
+**4. Take Imperfect Action.**
+
+You don’t need certainty—**you need movement.**
+
+Confidence is built through action, not thinking.
+
+**5. Reconnect with Your Inner Guidance.**
+
+Just like intuition, clarity comes from within.
+
+**Simple practices help:**
+
+- Sitting in silence (even 5 minutes).
+- Journaling your thoughts without filter.
+- Asking yourself: “What do I already know is right?”
+
+## The Truth About Clarity
+
+Clarity doesn’t come from thinking harder.
+
+It comes from trusting deeper.
+
+The moment you stop trying to control every outcome…
+
+You start **allowing aligned decisions** to flow naturally.
+
+## Final Insights
+
+You don’t need more time.
+
+You don’t need more information.
+
+You need to trust yourself again.
+
+Because the truth is: You already know more than you think you do.
+
+## Ready to Break Free from Overthinking for Good?
+
+If you’ve been stuck in your head, constantly second-guessing yourself or feeling unsure about your next step, it’s time to shift out of confusion and into clarity.
+
+You don’t have to navigate this alone.
+
+**In a private life coaching session, we’ll:**
+
+- **Identify** what’s keeping you stuck in overthinking.
+- **Reconnect** you with your natural clarity and intuition.
+- **Help** you move forward with calm, confident decisions.
+
+*With Love and Light, Claudia*`,
   },
   {
     slug: "how-to-strengthen-your-intuition-7-powerful-signs-your-inner-guidance-is-awakening",
