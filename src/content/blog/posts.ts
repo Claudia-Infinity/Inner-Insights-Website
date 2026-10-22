@@ -1117,9 +1117,9 @@ But **instead of creating clarity… it creates confusion.**
 
 It sounds like:
 
-- “What if I make the wrong decision?”
-- “What will others think?”
-- “I should wait until I’m 100% sure…”
+* “What if I make the wrong decision?”
+* “What will others think?”
+* “I should wait until I’m 100% sure…”
 
 And suddenly, what should be a simple decision becomes overwhelming.
 
@@ -1151,9 +1151,9 @@ It’s a **self-trust problem.**
 
 Somewhere along the way, you learned:
 
-- That your instincts weren’t enough.
-- That you needed more validation.
-- That being “right” mattered more than being aligned.
+* That your instincts weren’t enough.
+* That you needed more validation.
+* That being “right” mattered more than being aligned.
 
 So, your mind took over.
 
@@ -1201,9 +1201,9 @@ Just like intuition, clarity comes from within.
 
 **Simple practices help:**
 
-- Sitting in silence (even 5 minutes).
-- Journaling your thoughts without filter.
-- Asking yourself: “What do I already know is right?”
+* Sitting in silence (even 5 minutes).
+* Journaling your thoughts without filter.
+* Asking yourself: “What do I already know is right?”
 
 ## The Truth About Clarity
 
@@ -1233,9 +1233,9 @@ You don’t have to navigate this alone.
 
 **In a private life coaching session, we’ll:**
 
-- **Identify** what’s keeping you stuck in overthinking.
-- **Reconnect** you with your natural clarity and intuition.
-- **Help** you move forward with calm, confident decisions.
+* **Identify** what’s keeping you stuck in overthinking.
+* **Reconnect** you with your natural clarity and intuition.
+* **Help** you move forward with calm, confident decisions.
 
 *With Love and Light, Claudia*`,
   },
