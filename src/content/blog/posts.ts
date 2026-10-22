@@ -13,6 +13,117 @@ export type Post = {
 
 export const POSTS: Post[] = [
   {
+    slug: "our-loved-ones-do-miss-us-in-the-afterlife",
+    title: "Our Loved Ones Do Miss Us in the Afterlife (A Medium’s Account)",
+    date: "Oct 21, 2026",
+    excerpt: "Do they miss me? Do they still know I’m here? After hundreds of afterlife connections as a psychic medium, here’s what Spirit has shown me about how our loved ones miss us, why love doesn’t end at death, and the signs they send when they’re near.",
+    image: "/images/blog/our-loved-ones-do-miss-us-in-the-afterlife-hero.png",
+    viewsSeed: 1873519,
+    body: `Have you ever sat in a quiet moment, maybe right after waking up, or in the middle of a perfectly ordinary Tuesday, and felt a sudden wave of longing for someone you’ve lost? That kind of **grief that sneaks up on you**, the one that doesn’t announce itself, just lands on your chest.
+
+I know that feeling. And if you’re reading this right now, I think you do too. What I want to share with you today is something that has brought more healing to more people than almost anything else I have witnessed in my work as a psychic medium, something that has genuinely changed everything I thought I knew about love, about loss, and about what it means to be connected to another soul.
+
+**Because I’ve been given a front-row seat to something most people never get to witness and what I’ve seen is extraordinary.**
+
+## The Question That Lives in Every Grieving Heart
+
+Every person who has ever lost someone they love has asked it, whispered it into a dark bedroom ceiling at 3am, or screamed it silently in the car on the drive home from the cemetery. **“Do they miss me? Are they thinking of me? Do they even know I’m still here?”**
+
+This is not a fringe question. This is not a question reserved for the spiritually curious or the broken-hearted. This is the most human question there is. It is, at its core, the question beneath every question: **“Did my love matter? Does it still?”**
+
+And I want you to know, truly deeply know that asking it is not a sign of weakness. It is the most beautiful evidence of how profoundly you loved someone.
+
+In the years I’ve spent facilitating mediumship readings, people most often come to me wanting to know “Does my mom still love me?” “Does my dad know about the grandkids he never got to meet?” “Does my best friend know I still think about them every single day?”
+
+These are the questions that bring people to me for connection to the **afterlife**. And these are the questions that the other side answers consistently, beautifully, and with a specificity that leaves no room for doubt.
+
+My role as an **evidential psychic medium** is to be the bridge between your world and theirs. And every single time I stand on that bridge, I come back changed.
+
+## What I’ve Learned After Years of Spirit Communication
+
+I have facilitated hundreds of afterlife connections over the course of my career as a psychic medium. If there is one truth I have come to know with absolute certainty, one truth that sits in my bones and doesn’t waver, it is this: **love does not end at death.**
+
+Not even a little bit. What I’ve witnessed in the space between your world and theirs has become the foundation of everything I teach, every session I hold, and every word I write.
+
+I am not here to give you a fairy tale. I’m here to share what spirit has shown me, in plain, warm, honest language.
+
+### Love Doesn’t End, It Transforms
+
+Here is the core spiritual truth that the other side has taught me, time and again: **love is not stored in the body.** It is not dependent on a heartbeat or a nervous system or a pair of lungs that rise and fall.
+
+**Love is an energetic signature, a frequency.** And frequency does not die just because the physical form that carried it does.
+
+When someone you love crosses over, the love they had for you doesn’t go anywhere. It doesn’t fade, it doesn’t forget, and it doesn’t stop. What it does is transform. It becomes purer. It is no longer weighed down by ego, fear, old wounds, or earthly limitations. It is love in its most essential, most luminous form.
+
+When I connect with your loved ones on the other side, the very first thing I feel before I receive any words, before any images form is an **emotional signature.** And that signature is almost always an overwhelming wave of love. Warmth. Tenderness. Urgency to communicate. It’s not subtle.
+
+It washes over me like stepping from a cold room into sunlight. Clients often watch my face change (hello rosy cheeks!) the moment their loved ones come through because what arrives first is not information, it is feeling.
+
+And that feeling is love. Pure, unbounded, joyful love. This is what your loved ones on the other side are carrying for you, even now as you read this. Especially now.
+
+### Yes — They Still Know You. All of You.
+
+One of the most healing moments in any reading I facilitate is the moment of recognition. Not recognition from me, recognition from the sitter. The gasp. The hand over the mouth. The tears that come from somewhere so deep they surprise even the person crying.
+
+Because the spirit coming through doesn’t offer vague, general comfort. They reference the specific. The private. The thing you thought no one could possibly know. The nickname only they ever called you. The conversation you had in the car three days before they passed. The song you played at the funeral that nobody knew was their favorite except you. The way you’ve been sleeping with their old cardigan because it still smells like them even though you haven’t told anyone that. These afterlife messages from loved ones are not performances. They are evidence. They are Spirit saying: **I see you. I know you. I am still here with you.**
+
+Your loved ones on the other side haven’t lost their personality with their body. They still have their humor. I can’t tell you how many sessions involve laughter, inside jokes, and that particular brand of teasing that only a specific family member could pull off. They still have their opinions. They still have their quirks.
+
+And they know what is happening in your life right now, the new baby, the promotion you worked so hard for, the heartbreak that nearly broke you, the small ordinary moments of your daily life that you assumed were invisible to anyone beyond your own skin.
+
+Connecting with deceased loved ones through a respected medium doesn’t just offer closure. It offers recognition. And being seen, truly seen, by someone who loves you is one of the most healing experiences a human being can have.
+
+## So, Do They Miss Us? Here’s What Spirit Has Shown Me.
+
+Alright. Here it is. The question you came here for. And I’m going to answer it directly, honestly, and with all the love that this work has poured into me: Yes.
+
+In their own way, absolutely, beautifully, undeniably yes, your loved ones miss you. But the missing is different from what you experience in grief. It doesn’t carry the same weight. It doesn’t hurt the same way. **And understanding this difference is, I believe, one of the most liberating things a grieving person can receive.**
+
+When I ask spirits about this (and I do ask, because clients need to hear it) what comes back is something I can only describe as a bittersweet awareness. They miss the specific textures of the life you shared together. Not the abstract concept of you, the specific, sensory, irreplaceable details.
+
+Your laugh, the one that’s a little too loud and ends with a snort. The smell of your hair. Sunday dinners where everyone talked over each other. The way you said their name, just their name, nothing else, and how it sounded like home coming out of your mouth. The feeling of your hand in theirs. These are the things that come through. These are the things that make spirits light up in a reading, because the memory of them is treasured.
+
+But here is the profound, paradigm-shifting part: **the missing is transformed into presence.** Because in the afterlife, there is no separation anxiety. There is no helpless longing.
+
+Instead, your loved ones have access to you in ways they never could in the physical world. They can be with you in an instant. A thought of them is an invitation they can respond to. They watch over you, not in a surveillance way, but in the way of someone who loves you so much they simply cannot look away.
+
+The question **“do loved ones miss us in the afterlife”** is really asking: **“Do we still matter to them?”** And the answer is not just yes. The answer is that you matter to them even more completely than you did before, because love is all they are now.
+
+Think of it like a song you love. A song that moves you so deeply it feels like it was written for you. When the song ends, the music stops but the feeling left in you doesn’t. It lives in your body, in your memory, in something that doesn’t have a name but is undeniably real.
+
+That is what your relationship with your loved one is like from their side of the veil. **The physical experience ended, but the love it created is still vibrating.** I’ve witnessed this in sessions with fathers who miss watching football on the couch with their sons. Mothers who ache to hold children they only met briefly. Best friends who miss laughing until 2am about nothing and everything at once. **These are the connections that cross. Every single time.**
+
+## The Signs They Send When They Miss You
+
+When they miss you, when they want you to know they’re near, **they find ways to show up**. And you’ve probably already felt it. You’ve just been wondering whether you were allowed to trust it. Let me give you permission right now: you are.
+
+### 1. Dreams Are The Most Direct Channel
+
+**Sleep is one of the most natural portals between your world and theirs.** When you sleep, your conscious mind steps back, your analytical guard drops, and your vibrational frequency naturally rises which makes you far more receptive to the energy of the spirit world. If you have ever had a dream where a deceased loved one appeared and simply held you, or looked at you with peace in their eyes, or said those two words “I’m okay,” please hear me: that was not just a dream. That was a visit. That was love finding the most direct route home. Tonight, before you sleep, you can ask for one.
+
+### 2. Repetitive Numbers, Songs, and Symbols
+
+Spirits are endlessly creative. They communicate through the language of repetition and synchronicity because they know that if something shows up once, we might dismiss it. However, if it shows up over and over, even the most skeptical among us starts to pay attention. A song that comes on at the exact moment you needed to hear it. Their birthday numbers appearing in unexpected places throughout your week. A specific bird or butterfly that lands near you at moments of significance. A scent (unmistakable and sourceless) of their perfume, their aftershave, the particular brand of coffee they always made. These are not coincidences. These are **deliberate acts of love from the other side.** Signs from deceased loved ones are rarely dramatic. They’re quietly insistent. They’re tender. They’re your loved one saying, “Hey. Still here. Haven’t gone anywhere.”
+
+### 3. Physical Sensations and Electrical Phenomena
+
+Spirits work with energy and in the physical world, electricity is one of the most accessible fields for them to interact with. Lights that flicker when you speak their name. Your phone playing a meaningful song with no playlist prompt. A television or lightbulb that turns on or off at a significant moment. **Your body knows. Your nervous system registers their energy even when your mind is still arguing.** Learn to trust what your body feels because it is often receiving what your rational mind refuses to process.
+
+## Final Insights
+
+Here is what I leave every client with, and what I want to leave you with now: **you are not separated from the people you love who have passed. You are simply in different rooms of the same house.**
+
+The veil between your world and theirs is thinner than you have been led to believe and love is the thread that crosses it every single time. Your loved ones did not leave. They graduated.
+
+They moved from one form of existence into another, and they brought everything that ever mattered about them, their love, their personality, their memories of you along for the ride. They are not missing from your life. They have moved into a new way of being present in it.
+
+You are allowed to feel the grief. You are allowed to miss them with your whole body. And you are also allowed to believe — no, to know — that they are with you still. Because they are.
+
+**The love you shared didn’t die. It just learned to speak a different language.** And you, beautiful soul, are already fluent in it. You always have been.
+
+*With Love and Light, Claudia*`,
+  },
+  {
     slug: "developing-your-clairvoyant-psychic-skills",
     title: "Developing Your Clairvoyant Psychic Skills: Seeing Beyond What the Eyes Can Hold",
     date: "Oct 7, 2026",
